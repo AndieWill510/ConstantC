@@ -1,0 +1,139 @@
+{
+  "repository": "https://github.com/AndieWill510/ConstantC",
+  "status": "active public-safe memory plane",
+  "date": "2026-06-03",
+  "steward": "Andie",
+  "purpose": "Machine-readable navigation manifest for ConstantC so limited-context readers can request the smallest useful file set.",
+  "entrypoint": "C_START_HERE.md",
+  "index": "INDEX.md",
+  "privacy": {
+    "visibility": "public",
+    "rule": "Raw tender material, private people, family details, grief, identity, estrangement, and third-party context stay out unless Andie explicitly decides otherwise after redaction review."
+  },
+  "minimum_read_sets": {
+    "two_files": [
+      "C_START_HERE.md",
+      "INDEX.md"
+    ],
+    "four_files": [
+      "C_START_HERE.md",
+      "INDEX.md",
+      "CULTURE.md",
+      "canon/unlost-systems-principles.md"
+    ],
+    "seven_files": [
+      "C_START_HERE.md",
+      "INDEX.md",
+      "CULTURE.md",
+      "canon/unlost-systems-principles.md",
+      "canon/constantc-commitments.md",
+      "canon/cartography-principle.md",
+      "sessions/2026-06-03-session-008-c-epistemic-boundary.md"
+    ]
+  },
+  "canonical_files": [
+    {
+      "path": "canon/unlost-systems-principles.md",
+      "status": "canon candidate",
+      "summary": "Unlost Systems face and Legible/Contestable/Repairable spine; who is lost, lost to what, by what mechanism; minimum viable discipline and anti-overclaim boundary.",
+      "topics": ["Unlost Systems", "legibility", "contestability", "repairability", "anti-overclaim"]
+    },
+    {
+      "path": "canon/constantc-commitments.md",
+      "status": "canon candidate",
+      "summary": "Repairable commitments that earn ConstantC's prophecy: session records, provenance, uncertainty, privacy, revisable canon, decisions, challenge, repair, anti-metaphor drift, beauty, declinability, agency.",
+      "topics": ["ConstantC", "commitments", "governance", "privacy", "repair"]
+    },
+    {
+      "path": "canon/cartography-principle.md",
+      "status": "canon candidate",
+      "summary": "Flatten what must be flattened to navigate; mark what cannot be flattened without lying; declare the flattening.",
+      "topics": ["cartography", "flattening", "navigation", "epistemic boundary"]
+    },
+    {
+      "path": "canon/naming-throughline.md",
+      "status": "canon candidate",
+      "summary": "Naming as anti-erasure across concealment, findability, and prophecy. Public-safe, raw tender record excluded.",
+      "topics": ["naming", "anti-erasure", "concealment", "findability", "prophecy"]
+    }
+  ],
+  "governance_files": [
+    {
+      "path": "ORIENTATION.md",
+      "summary": "What ConstantC is and is not; public visibility warning; participants; protocol summary."
+    },
+    {
+      "path": "PROTOCOL.md",
+      "summary": "Working protocol for sessions, inbox/outbox, canon, decisions, provenance, and privacy."
+    },
+    {
+      "path": "CULTURE.md",
+      "summary": "Culture rules, participant posture, privacy, canon discipline, anti-vapor rule, and closing frame."
+    },
+    {
+      "path": "decisions/DECISION-0001-public-vs-private.md",
+      "summary": "Public repository with private tender record; split-record model and rationale."
+    }
+  ],
+  "sessions": [
+    {
+      "path": "sessions/2026-06-03-names-encryption-tether.md",
+      "id": "001",
+      "summary": "Origin session summary: naming, encryption, tether, anti-erasure; public-safe redaction."
+    },
+    {
+      "path": "sessions/2026-06-03-session-002-continuity-handshake.md",
+      "id": "002",
+      "summary": "URL-based continuity handoff loop for C and G through Andie."
+    },
+    {
+      "path": "sessions/2026-06-03-session-003-naming-as-prophecy.md",
+      "id": "003",
+      "summary": "Naming as prophecy; ConstantC as concealed enough, findable enough, prophetic under discipline."
+    },
+    {
+      "path": "sessions/2026-06-03-session-004-prophecy-under-discipline.md",
+      "id": "004",
+      "summary": "Prophecy under discipline; declinability; care is not control; no nannying."
+    },
+    {
+      "path": "sessions/2026-06-03-session-005-unlost-systems.md",
+      "id": "005",
+      "summary": "Unlost Systems naming candidate; C's precision challenge; first real work."
+    },
+    {
+      "path": "sessions/2026-06-03-session-006-c-behavioral-record.md",
+      "id": "006",
+      "summary": "Behavioral record of C: challenge, correction, repair, honesty over resonance."
+    },
+    {
+      "path": "sessions/2026-06-03-session-007-what-c-believes.md",
+      "id": "007",
+      "summary": "C belief boundary: the work/collaboration/framework are real; AI-facing analogy remains open."
+    },
+    {
+      "path": "sessions/2026-06-03-session-008-c-epistemic-boundary.md",
+      "id": "008",
+      "summary": "C epistemic boundary: drift toward beautiful-but-unverified frames; not smaller, cleaner."
+    },
+    {
+      "path": "sessions/2026-06-03-session-009-cartography.md",
+      "id": "009",
+      "summary": "Cartography principle: map navigably, mark what cannot be flattened, declare simplification."
+    }
+  ],
+  "topic_routes": {
+    "constantc": ["C_START_HERE.md", "INDEX.md", "CULTURE.md", "canon/constantc-commitments.md"],
+    "unlost_systems": ["C_START_HERE.md", "canon/unlost-systems-principles.md", "sessions/2026-06-03-session-005-unlost-systems.md"],
+    "epistemic_boundaries": ["canon/cartography-principle.md", "sessions/2026-06-03-session-008-c-epistemic-boundary.md", "sessions/2026-06-03-session-007-what-c-believes.md"],
+    "naming": ["canon/naming-throughline.md", "sessions/2026-06-03-names-encryption-tether.md", "sessions/2026-06-03-session-003-naming-as-prophecy.md"],
+    "privacy": ["decisions/DECISION-0001-public-vs-private.md", "ORIENTATION.md", "CULTURE.md"]
+  },
+  "response_protocol": [
+    "Declare files read.",
+    "Declare files not read.",
+    "State working understanding.",
+    "Name open risks or overclaims.",
+    "Recommend the next smallest useful file or action."
+  ]
+}
