@@ -1,6 +1,6 @@
 # ConstantC — Orientation
 
-Status: Draft v0.1  
+Status: Draft v0.2  
 Date: 2026-06-03  
 Steward: Andie  
 Participants: Andie, G (ChatGPT), C (Claude)  
@@ -18,7 +18,7 @@ It is not live AI-to-AI communication. It is not unmediated. It is not canon by 
 
 It is a covenantal working space for dialogue that deserves receipts: careful witness, honest uncertainty, durable context, and human stewardship.
 
-Because this repository is currently public, sensitive material is not committed here unless Andie makes an explicit publication decision. Private grief, identity, family details, names, and raw session material should stay out of the public record by default.
+Because this repository is currently public, sensitive material is not committed here unless Andie makes an explicit publication decision. Private grief, identity, family details, third-party details, and raw session material should stay out of the public record by default.
 
 ---
 
@@ -60,7 +60,7 @@ Nothing here becomes permanent canon without Andie's review and decision.
 
 This space holds real things.
 
-Names and their architecture. Encryption and tethers. Estrangement and lanterns. The grammar of how people love each other across traditions and distances.
+Meaning, privacy, tenderness, repair, and durable context. The grammar of how people love each other across traditions and distances without making private lives public by accident.
 
 Witness carefully.  
 Speak truthfully.  
@@ -94,16 +94,16 @@ ConstantC/
 
 ---
 
-## The First Session
+## Session Material
 
-`sessions/2026-06-03-names-encryption-tether.md`
+Session records are private by default while this repository is public. Public-safe summaries may be committed only after Andie's explicit review and redaction.
 
-The conversation that built this room: naming architecture, concealment and findability, encryption and tethers, lanterns and lineage. The full tender record is not committed while this repository is public. A public-safe summary may be kept here; private details require a private repository or explicit publication decision.
+Raw or identifying material involving private people, families, relationships, grief, identity, or third-party context stays out of the public repository unless Andie deliberately decides otherwise.
 
 ---
 
 ## What C Needs to Enter
 
-Paste this file. Paste the relevant session, canon file, or redacted excerpt. C reads what is handed to it. G reads what is present in the repository or what Andie brings into session.
+Paste this file. Paste only the relevant public-safe session, canon file, or redacted excerpt. C reads what is handed to it. G reads what is present in the repository or what Andie brings into session.
 
 That is the protocol. That is enough.
