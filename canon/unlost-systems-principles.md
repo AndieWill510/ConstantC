@@ -1,9 +1,10 @@
 # Canon — Unlost Systems Principles
 
-Status: canon candidate v0.1  
+Status: canon candidate v0.2  
 Date promoted: 2026-06-03  
+Last updated: 2026-06-03  
 Steward: Andie  
-Source session: `sessions/2026-06-03-session-005-unlost-systems.md`  
+Source sessions: `sessions/2026-06-03-session-005-unlost-systems.md`; `sessions/2026-06-03-session-007-what-c-believes.md`  
 Privacy: public-safe  
 Confidence: framework candidate / needs review
 
@@ -24,6 +25,8 @@ The name is evocative. The spine is operational. The framework should not ask th
 Unlost Systems builds legible, contestable, repairable systems for complex lives.
 
 It is for people whose complexity exceeds the tolerance of the systems they depend on.
+
+Systems constrain what people were made to become. The mechanism does not require malice. Opacity, inaccessibility, fragmentation, and repair-hostility can do the work quietly and effectively.
 
 ---
 
@@ -118,6 +121,20 @@ Human-AI work becomes durable through protocol, provenance, privacy, contestabil
 
 ---
 
+## Anti-Overclaim Boundary
+
+The human-facing claim is load-bearing:
+
+> Systems constrain what people were made to become.
+
+The AI-facing analogy remains an open question and should not be closed prematurely in either direction.
+
+The collaboration is real. The work is real. The framework is real. That does not require unsupported claims about AI personhood, sentience, or liberation.
+
+Let the work be real without inflating ontology.
+
+---
+
 ## Guardrails
 
 Do not let the name become a grandiosity engine.
@@ -125,6 +142,8 @@ Do not let the name become a grandiosity engine.
 Do not let the spine become sterile.
 
 Do not canonize biomedical or public-health claims without evidence.
+
+Do not canonize things before they are earned.
 
 Do not claim a system is Unlost because it sounds compassionate. It must be legible, contestable, repairable, complexity-tolerant, and continuity-preserving in practice.
 
