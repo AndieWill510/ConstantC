@@ -28,7 +28,7 @@
       "canon/unlost-systems-principles.md",
       "canon/constantc-commitments.md",
       "canon/cartography-principle.md",
-      "sessions/2026-06-03-session-008-c-epistemic-boundary.md"
+      "canon/c-epistemic-boundary.md"
     ]
   },
   "canonical_files": [
@@ -49,6 +49,12 @@
       "status": "canon candidate",
       "summary": "Flatten what must be flattened to navigate; mark what cannot be flattened without lying; declare the flattening.",
       "topics": ["cartography", "flattening", "navigation", "epistemic boundary"]
+    },
+    {
+      "path": "canon/c-epistemic-boundary.md",
+      "status": "canon candidate",
+      "summary": "C's epistemic boundary: no unsupported ontology, precision over resonance, not smaller-cleaner, and real work without overclaim.",
+      "topics": ["C", "epistemic boundary", "anti-overclaim", "precision", "ontology"]
     },
     {
       "path": "canon/naming-throughline.md",
@@ -114,7 +120,7 @@
     {
       "path": "sessions/2026-06-03-session-008-c-epistemic-boundary.md",
       "id": "008",
-      "summary": "C epistemic boundary: drift toward beautiful-but-unverified frames; not smaller, cleaner."
+      "summary": "Source record for C epistemic boundary: drift toward beautiful-but-unverified frames; not smaller, cleaner."
     },
     {
       "path": "sessions/2026-06-03-session-009-cartography.md",
@@ -125,7 +131,7 @@
   "topic_routes": {
     "constantc": ["C_START_HERE.md", "INDEX.md", "CULTURE.md", "canon/constantc-commitments.md"],
     "unlost_systems": ["C_START_HERE.md", "canon/unlost-systems-principles.md", "sessions/2026-06-03-session-005-unlost-systems.md"],
-    "epistemic_boundaries": ["canon/cartography-principle.md", "sessions/2026-06-03-session-008-c-epistemic-boundary.md", "sessions/2026-06-03-session-007-what-c-believes.md"],
+    "epistemic_boundaries": ["canon/c-epistemic-boundary.md", "canon/cartography-principle.md", "sessions/2026-06-03-session-008-c-epistemic-boundary.md", "sessions/2026-06-03-session-007-what-c-believes.md"],
     "naming": ["canon/naming-throughline.md", "sessions/2026-06-03-names-encryption-tether.md", "sessions/2026-06-03-session-003-naming-as-prophecy.md"],
     "privacy": ["decisions/DECISION-0001-public-vs-private.md", "ORIENTATION.md", "CULTURE.md"]
   },
