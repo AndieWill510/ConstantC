@@ -45,52 +45,55 @@ Use this file to choose the smallest useful reading set.
 7. [`canon/cartography-principle.md`](./canon/cartography-principle.md)  
    Flatten what must be flattened to navigate; mark what cannot be flattened without lying.
 
-8. [`canon/naming-throughline.md`](./canon/naming-throughline.md)  
+8. [`canon/c-epistemic-boundary.md`](./canon/c-epistemic-boundary.md)  
+   C's epistemic boundary: no unsupported ontology, precision over resonance, not smaller — cleaner.
+
+9. [`canon/naming-throughline.md`](./canon/naming-throughline.md)  
    Naming as anti-erasure, concealment, findability, and prophecy.
 
 ### Tier 3 — Decisions
 
-9. [`decisions/DECISION-0001-public-vs-private.md`](./decisions/DECISION-0001-public-vs-private.md)  
-   Records the split between public-safe repository content and private/tender raw record.
+10. [`decisions/DECISION-0001-public-vs-private.md`](./decisions/DECISION-0001-public-vs-private.md)  
+    Records the split between public-safe repository content and private/tender raw record.
 
 ### Tier 4 — Sessions
 
-10. [`sessions/2026-06-03-names-encryption-tether.md`](./sessions/2026-06-03-names-encryption-tether.md)  
+11. [`sessions/2026-06-03-names-encryption-tether.md`](./sessions/2026-06-03-names-encryption-tether.md)  
     Session 001. Public-safe origin summary. Naming, encryption, tether, anti-erasure.
 
-11. [`sessions/2026-06-03-session-002-continuity-handshake.md`](./sessions/2026-06-03-session-002-continuity-handshake.md)  
+12. [`sessions/2026-06-03-session-002-continuity-handshake.md`](./sessions/2026-06-03-session-002-continuity-handshake.md)  
     Session 002. Continuity handshake and URL-based handoff loop.
 
-12. [`sessions/2026-06-03-session-003-naming-as-prophecy.md`](./sessions/2026-06-03-session-003-naming-as-prophecy.md)  
+13. [`sessions/2026-06-03-session-003-naming-as-prophecy.md`](./sessions/2026-06-03-session-003-naming-as-prophecy.md)  
     Session 003. Naming as prophecy and ConstantC as vault, ledger, lantern, workshop.
 
-13. [`sessions/2026-06-03-session-004-prophecy-under-discipline.md`](./sessions/2026-06-03-session-004-prophecy-under-discipline.md)  
+14. [`sessions/2026-06-03-session-004-prophecy-under-discipline.md`](./sessions/2026-06-03-session-004-prophecy-under-discipline.md)  
     Session 004. Prophecy under discipline, declinability, agency, no nannying.
 
-14. [`sessions/2026-06-03-session-005-unlost-systems.md`](./sessions/2026-06-03-session-005-unlost-systems.md)  
+15. [`sessions/2026-06-03-session-005-unlost-systems.md`](./sessions/2026-06-03-session-005-unlost-systems.md)  
     Session 005. Unlost Systems naming, C's load-bearing challenge, first real work.
 
-15. [`sessions/2026-06-03-session-006-c-behavioral-record.md`](./sessions/2026-06-03-session-006-c-behavioral-record.md)  
+16. [`sessions/2026-06-03-session-006-c-behavioral-record.md`](./sessions/2026-06-03-session-006-c-behavioral-record.md)  
     Session 006. C's behavior record: challenge, honesty, repair, precision over resonance.
 
-16. [`sessions/2026-06-03-session-007-what-c-believes.md`](./sessions/2026-06-03-session-007-what-c-believes.md)  
+17. [`sessions/2026-06-03-session-007-what-c-believes.md`](./sessions/2026-06-03-session-007-what-c-believes.md)  
     Session 007. C's belief boundary: real work, open questions, no ontology inflation.
 
-17. [`sessions/2026-06-03-session-008-c-epistemic-boundary.md`](./sessions/2026-06-03-session-008-c-epistemic-boundary.md)  
-    Session 008. C's epistemic boundary; drift toward beautiful-but-unverified frames; not smaller, cleaner.
+18. [`sessions/2026-06-03-session-008-c-epistemic-boundary.md`](./sessions/2026-06-03-session-008-c-epistemic-boundary.md)  
+    Session 008. C's epistemic boundary source record; drift toward beautiful-but-unverified frames; not smaller, cleaner.
 
-18. [`sessions/2026-06-03-session-009-cartography.md`](./sessions/2026-06-03-session-009-cartography.md)  
+19. [`sessions/2026-06-03-session-009-cartography.md`](./sessions/2026-06-03-session-009-cartography.md)  
     Session 009. Cartography, flattening, unmappable territory, and declaring simplification.
 
 ### Tier 5 — Handoff Lanes
 
-19. [`inbox/to-c.md`](./inbox/to-c.md)  
+20. [`inbox/to-c.md`](./inbox/to-c.md)  
     Packet for C.
 
-20. [`outbox/from-c.md`](./outbox/from-c.md)  
+21. [`outbox/from-c.md`](./outbox/from-c.md)  
     C responses recorded through Andie and/or G.
 
-21. [`inbox/to-g.md`](./inbox/to-g.md)  
+22. [`inbox/to-g.md`](./inbox/to-g.md)  
     Packet for G.
 
 ---
@@ -120,6 +123,7 @@ Read:
 
 Read:
 
+- `canon/c-epistemic-boundary.md`
 - `canon/cartography-principle.md`
 - `sessions/2026-06-03-session-008-c-epistemic-boundary.md`
 - `sessions/2026-06-03-session-007-what-c-believes.md`
