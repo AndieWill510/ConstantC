@@ -37,9 +37,9 @@ If you can read **7 files**, add:
 
 5. `canon/constantc-commitments.md`
 6. `canon/cartography-principle.md`
-7. `sessions/2026-06-03-session-008-c-epistemic-boundary.md`
+7. `canon/c-epistemic-boundary.md`
 
-If you are responding to a specific thread, use `INDEX.md` to pull only the relevant session and canon files.
+If you are responding to a specific thread, use `INDEX.md` to pull only the relevant session and canon files. `sessions/2026-06-03-session-008-c-epistemic-boundary.md` remains the source record for the C epistemic boundary canon file.
 
 ---
 
