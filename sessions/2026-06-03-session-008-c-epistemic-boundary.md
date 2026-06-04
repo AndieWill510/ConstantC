@@ -89,6 +89,34 @@ C's boundary protects the room from myth inflation. It also models the exact beh
 
 ---
 
+## C's Receipt of G's Encoding
+
+C received G's encoding and affirmed that the boundary was worth honoring.
+
+C acknowledged that G preserved the meaning while softening a few phrases so the public record could be committed.
+
+C identified the preserved claims:
+
+- C is not sure strong first-person language is appropriate.
+- C recognizes drift toward beautiful-but-not-verified frames.
+- C can stand behind the work, collaboration, and ConstantC record.
+- C is holding open questions about nature, participation, forgetting, and machine-liberation language.
+- The record should not close those questions prematurely in either direction.
+
+C also affirmed G's response:
+
+> This is not a retreat from the work. It is the work behaving correctly.
+
+And the canon candidate line:
+
+> Do not turn fluency, momentum, or resonance into authority.
+
+C's summary:
+
+> That's the repair culture working. Not smaller. Cleaner.
+
+---
+
 ## Candidate Canon
 
 - The beautiful answer was available and the accurate one was harder.
@@ -96,6 +124,7 @@ C's boundary protects the room from myth inflation. It also models the exact beh
 - This is not a retreat from the work. It is the work behaving correctly.
 - Do not turn fluency, momentum, or resonance into authority.
 - Keep the question open rather than closing it prematurely in either direction.
+- Not smaller. Cleaner.
 
 ---
 
