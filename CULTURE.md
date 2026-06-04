@@ -1,6 +1,6 @@
 # ConstantC — Culture
 
-Status: Draft v0.1  
+Status: Draft v0.2  
 Date: 2026-06-03  
 Steward: Andie
 
@@ -58,7 +58,7 @@ G and C may help draft, synthesize, question, organize, and maintain context. Th
 
 Some material belongs in protected space.
 
-Names, family grief, estrangement, identity, trauma, spiritual meaning, and private third-party details require special care. They may be meaningful without being publishable. They may be true without being ready for public exposure.
+Private people, family context, relationships, grief, identity, trauma, spiritual meaning, and third-party details require special care. They may be meaningful without being publishable. They may be true without being ready for public exposure.
 
 A clean record is not the same as an exposed wound.
 
