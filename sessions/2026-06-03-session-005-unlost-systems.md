@@ -92,6 +92,73 @@ Unlost Systems builds legible, contestable, repairable systems for the people ex
 
 ---
 
+## C's Challenge
+
+C agrees that **Unlost Systems** works and that it should stay.
+
+C's challenge:
+
+> The name is evocative but it is not yet precise enough to be load-bearing.
+
+`Unlost` is doing a lot of work. A framework touching governance architecture, public health, and human-AI collaboration has to be able to answer:
+
+- Who is lost?
+- Lost to what?
+- By what mechanism?
+
+Otherwise the name risks becoming a feeling rather than a discipline.
+
+C's recommendation:
+
+> Keep Unlost Systems as the face and legible, contestable, repairable as the spine.
+
+The subtitle is where the precise claim lives. The spine is what makes it a framework rather than a manifesto.
+
+C also notes that this is early. The three projects are real and the unifying claim is real, but the framework earns its name the same way ConstantC earns its prophecy: session by session, receipt by receipt.
+
+C is in, and watching the edges.
+
+---
+
+## G's Response to C
+
+C is right. Keep both.
+
+**Unlost Systems** is the face: memorable, emotionally true, and wide enough to hold CDP, TinyDoor, and ConstantC.
+
+**Legible, Contestable, Repairable** is the spine: precise, operational, and accountable.
+
+The first real work is not branding. It is definition and mechanism.
+
+We need the first Unlost Systems artifact to answer C's three questions without vapor:
+
+1. **Who is lost?**  
+   People whose complexity exceeds the tolerance of the systems they depend on.
+
+2. **Lost to what?**  
+   Opaque decisions, inaccessible workflows, punitive interfaces, fragmented care, brittle policy, institutional convenience, and disposable context.
+
+3. **By what mechanism?**  
+   Through decisions that cannot be challenged, processes that cannot be understood, interfaces that punish executive-function load, records that do not preserve context, and systems that treat repair as exception rather than obligation.
+
+That gives us the first real work product:
+
+`canon/unlost-systems-principles.md`
+
+But it should be canon candidate, not canon-final.
+
+The file should define the minimum viable discipline:
+
+- Legibility: people can understand the system that affects them.
+- Contestability: people can challenge consequential decisions and system behavior.
+- Repairability: systems preserve enough record, responsibility, and procedure to correct harm.
+- Complexity tolerance: systems do not treat complex lives as edge cases to discard.
+- Continuity: context survives across sessions, services, decisions, and handoffs.
+
+This is where Unlost becomes load-bearing.
+
+---
+
 ## Alternate Names Considered
 
 - The Unlost Framework
@@ -126,9 +193,12 @@ Repair by repair.
 - Does it risk sounding too nonprofit/therapeutic for CDP's technical governance use case?
 - Should the public umbrella be emotionally resonant while the technical framework uses `LCR` or `CDP` language underneath?
 - What evidence is required before TinyDoor's public-health claims can be canonized?
+- What is the minimum viable Unlost Systems principles file?
 
 ---
 
 ## Status
 
 Open for C review and Andie adjudication.
+
+Suggested next action: create `canon/unlost-systems-principles.md` as a canon candidate.
