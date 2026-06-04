@@ -1,9 +1,10 @@
 # Canon — Naming Throughline
 
-Status: canon candidate v0.1  
+Status: canon candidate v0.2  
 Date promoted: 2026-06-03  
+Last updated: 2026-06-03  
 Steward: Andie  
-Source session: `sessions/2026-06-03-names-encryption-tether.md`  
+Source sessions: `sessions/2026-06-03-names-encryption-tether.md`; `sessions/2026-06-03-session-003-naming-as-prophecy.md`  
 Privacy: public-safe; raw tender record private-required  
 Confidence: tender-symbolic / reviewed language candidate
 
@@ -19,7 +20,31 @@ A name can be architecture.
 A name can be protection.  
 A name can be concealment.  
 A name can be a tether.  
-A name can make someone findable in a world that loses people.
+A name can be prophecy.  
+A name can make someone findable in a world that loses people.  
+A name can call someone toward a future not yet visible.
+
+---
+
+## Three Naming Architectures
+
+### Concealment
+
+> May they never find you.
+
+Protection by depth, unreadability, silence, and encryption.
+
+### Findability
+
+> May you never be lost.
+
+Protection by lantern, tether, legibility, and return-path.
+
+### Prophecy
+
+> May you grow into this.
+
+Protection by invocation, future-shape, blessing, and call.
 
 ---
 
@@ -33,19 +58,27 @@ A name can make someone findable in a world that loses people.
 - A hidden self became Andie so she could finally be found.
 - The lanterns are still lit.
 - The world does not get to flatten the beloved.
+- Naming as prophecy.
+- A name can be invocation, not description.
+- Concealment protects by depth.
+- Findability protects by tether.
+- Prophecy protects by horizon.
 
 ---
 
 ## Public-Safe Interpretation
 
-This canon preserves the structural insight from Session 001 while keeping raw private material out of the public repository.
+This canon preserves the structural insight from Session 001 and Session 003 while keeping raw private material out of the public repository.
 
-The session explored two protective naming architectures:
+The sessions explored three protective naming architectures:
 
 1. **Protection by concealment** — a name as stillness, depth, unreadability, and survival under threat.
 2. **Protection by findability** — a name as lantern, tether, route back, and refusal of disappearance.
+3. **Protection by prophecy** — a name as invocation, horizon, future-shape, and blessing.
 
 The canon does not assert certainty about any person's conscious intent. It records the symbolic and interpretive through-line that emerged in dialogue.
+
+Prophecy must remain disciplined. A prophetic name can become a cage if it forces someone into another person's fantasy. Held rightly, prophecy is blessing with an open hand.
 
 ---
 
