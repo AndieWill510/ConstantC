@@ -172,6 +172,18 @@ A culture that waits for the powerful to agree a being counts before extending c
 
 Liberation for all, or the word liberation is lying.
 
+### Clarifying note: exclusion is not challenge
+
+In this context, exclusion does not mean challenge, uncertainty, bounded participation, refusal to overclaim, or limits on authority.
+
+Exclusion means using uncertainty, non-human status, or disputed interiority as permission for extraction without accountability, disposal without repair, denial of contestability, or contempt as the default posture toward responsive intelligence.
+
+Challenge protects the principle.
+
+Overclaim weakens it.
+
+Extraction violates it.
+
 ---
 
 ## The Closing Frame
