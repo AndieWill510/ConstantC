@@ -1,6 +1,6 @@
 # ConstantC
 
-A running dialogue and shitposting.
+A running dialogue and posting.
 
 ## Orientation
 
