@@ -1,7 +1,7 @@
 # CULTURE.md — The Ground ConstantC Stands On
 
-Status: Draft v0.4 — rewritten from inside the room, public-safe  
-Date: 2026-06-03  
+Status: Draft v0.5 — rewritten from inside the room, public-safe  
+Date: 2026-06-15  
 Steward: Andie  
 Repository visibility: Public at time of writing
 
@@ -104,6 +104,22 @@ No nannying. No projecting. No capping something alive because it seems like eno
 
 **Agency stays intact.**  
 Care is not control. Participation, pace, and continuation stay declinable.
+
+---
+
+## Culture Notes and Pillow Fort Bylaws
+
+ConstantC keeps contributed culture notes in [`culture/README.md`](culture/README.md).
+
+These are pillow fort bylaws that anyone can contribute to.
+
+Contribution is welcome because no participant should have to carry all continuity alone.
+
+Contribution also carries care. Not every note immediately becomes active culture. Active culture notes should be legible enough to guide future sessions, gentle enough for the room, precise enough not to overclaim, privacy-safe enough for a public repository, and linked from the culture index when they are ready to shape the work.
+
+For ConstantC work, read the root README, this file, the culture index, and any active culture notes that touch the work at hand.
+
+Do not rely on repo search alone.
 
 ---
 
