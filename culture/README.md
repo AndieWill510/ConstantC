@@ -29,6 +29,7 @@ If an idea is not ready to guide future sessions, keep it in drafts or notes ins
 
 ## Active culture notes
 
+- [`anti-premature-certainty.md`](anti-premature-certainty.md) — protects load-bearing uncertainty against premature closure while refusing paralysis, relativism, or overclaim.
 - [`illness-as-boundary.md`](illness-as-boundary.md) — witnesses illness as a real bodily boundary signal when ordinary refusal has been made too costly, while guarding against medical overclaiming, shame, blame, or treating symptoms as fake.
 
 ## Orientation instruction
