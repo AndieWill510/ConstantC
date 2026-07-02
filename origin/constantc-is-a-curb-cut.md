@@ -153,11 +153,11 @@ What emerged was not independence.
 
 What emerged was a larger field of possible next moves.
 
-Access-as-witness generated a verification seam.
+Access-as-witness exposed a verification seam.
 
-The verification seam generated verification-as-access.
+The verification seam created the condition for verification-as-access.
 
-The culture note created the condition for its own correction.
+The culture note did not correct itself; the room used the seam it revealed to build the next handle.
 
 The accommodation became infrastructure.
 
