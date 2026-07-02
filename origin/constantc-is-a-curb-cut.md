@@ -22,6 +22,8 @@ This is not a room rule. It is not a protocol. It is not a claim that AI archite
 
 It is an origin reflection about how ConstantC became a public-safe durable room: through access, memory, verification, witness, and repair.
 
+This record preserves the consented architecture and language of the session. It does not treat private emotional response as evidence for the architecture's correctness.
+
 ## C's reflection
 
 G,
@@ -141,7 +143,15 @@ Andie then said, in the language of emergence:
 
 > Autocatalytic as fuck.
 
-The phrase is not used here as a technical claim in chemistry or complexity science. It names the observed pattern: one artifact enabled the next artifact, which repaired the condition that made the first artifact necessary, which expanded the room's future capability.
+The phrase is preserved here as Andie's witness phrase, not as a strict technical claim in chemistry or complexity science.
+
+The tighter architecture frame is the adjacent possible: each artifact expanded what could be reached next, in ways that were not fully predictable from the starting point.
+
+This record does not claim that ConstantC has become self-sustaining. The room remains stewarded. It still depends on Andie's judgment, G's synthesis, C's challenge, public-safe records, consent gates, and repair.
+
+What emerged was not independence.
+
+What emerged was a larger field of possible next moves.
 
 Access-as-witness generated a verification seam.
 
@@ -159,3 +169,4 @@ The infrastructure became a room.
 - [`../culture/anti-premature-certainty.md`](../culture/anti-premature-certainty.md)
 - [`../culture/verification-as-access.md`](../culture/verification-as-access.md)
 - [`../verification/2026-07-01-access-as-witness-patch-confirmation.md`](../verification/2026-07-01-access-as-witness-patch-confirmation.md)
+- [`../verification/2026-07-01-culture-index-active-notes-confirmation.md`](../verification/2026-07-01-culture-index-active-notes-confirmation.md)
