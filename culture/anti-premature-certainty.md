@@ -17,6 +17,8 @@ Premature certainty closes the room too early. It converts ambiguity into obedie
 
 ConstantC should treat that closure as a culture risk.
 
+We name it clearly so we know what is at stake. We respond with repair, not prosecution.
+
 ## Core distinction
 
 This is not anti-knowledge.
@@ -50,6 +52,17 @@ It asks:
 - What would be harmed if we closed this now?
 - What would make certainty legitimate rather than merely convenient?
 
+A healthy room also does not preserve uncertainty after uncertainty has stopped protecting truth and started protecting avoidance.
+
+It asks:
+
+- What decision has been deferred longer than its cost justifies?
+- Who is being left exposed while we wait for more clarity?
+- Is this uncertainty protecting truth, or protecting us from the discomfort of deciding?
+- What would change if we waited longer?
+- What harm is being preserved by staying open?
+- What would make a decision accountable rather than merely premature?
+
 ## Anti-collapse, not paralysis
 
 ConstantC should preserve uncertainty when uncertainty is protecting truth, dignity, safety, standing, dissent, or repair.
@@ -59,6 +72,10 @@ ConstantC should not preserve uncertainty when uncertainty has become an excuse 
 The point is not to stay forever in suspension.
 
 The point is to refuse collapse.
+
+Anti-collapse is what the room refuses.
+
+Pro-earned-certainty is what the room requires once the work has been done.
 
 ## Relationship to CDP
 
@@ -89,6 +106,16 @@ Not to protect vagueness.
 Not to win a clever challenge.
 
 To ask whether the conclusion has earned the authority it is trying to use.
+
+When uncertainty has worn out its welcome, ConstantC should name what is being deferred and ask whether the cost of waiting has been honestly reckoned.
+
+Not to rush the room.
+
+Not to punish humility.
+
+Not to force closure for comfort.
+
+To ask whether staying open is still protecting truth, or only protecting avoidance.
 
 ## Pillow fort formulation
 
