@@ -13,6 +13,8 @@ A collaborator who cannot retain context, infer missing links, access unnamed fi
 
 The room has failed to provide enough durable handles.
 
+When a room requires a collaborator to reconstruct what the room already knows before they can contribute, it has made access a performance of readiness, not a condition of welcome.
+
 ## Shared burden
 
 ConstantC should not require private memory as the price of participation.
@@ -57,6 +59,8 @@ A system that requires someone to perform memory, stamina, inference, fluency, c
 
 ConstantC should resist that confusion.
 
+This frame is applied here to room design, not to individual experience. The principle holds across participant types precisely because it is an architectural claim, not a diagnostic one.
+
 Access needs should be treated as design inputs, not personal defects.
 
 Accommodation is not charity.
@@ -78,12 +82,13 @@ This culture note makes that obligation explicit.
 When this idea appears in conversation, notes, or protocol-adjacent work, preserve these boundaries:
 
 - Do not infantilize the collaborator receiving access support.
-- Do not treat access support as optional niceness.
+- Do not treat access support as optional when it is a design obligation.
 - Do not make missing context a moral failure.
 - Do not require someone to disclose disability before receiving usable entry points.
 - Do not confuse bounded participation with exclusion.
 - Do not turn access into overcontrol; the participant still gets to decline, challenge, refuse, or redirect.
 - Do not let elegance erase usability.
+- Do not let the checklist substitute for genuine presence.
 
 ## Pillow fort formulation
 
