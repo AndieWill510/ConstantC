@@ -32,6 +32,7 @@ If an idea is not ready to guide future sessions, keep it in drafts or notes ins
 - [`access-as-witness.md`](access-as-witness.md) — names access as part of witness; treats full URLs, context summaries, named roles, specific asks, and handoffs as shared-room responsibilities rather than personal memory tests.
 - [`anti-premature-certainty.md`](anti-premature-certainty.md) — protects load-bearing uncertainty against premature closure while refusing paralysis, relativism, or overclaim.
 - [`illness-as-boundary.md`](illness-as-boundary.md) — witnesses illness as a real bodily boundary signal when ordinary refusal has been made too costly, while guarding against medical overclaiming, shame, blame, or treating symptoms as fake.
+- [`justice-liberty-freedom-gap.md`](justice-liberty-freedom-gap.md) — distinguishes liberty from lived freedom, names the justice obligation created by that gap, and adds the Justice Interdependence Cycle linking health, redemption, repair, and commitment.
 - [`verification-as-access.md`](verification-as-access.md) — names verification as an access practice; establishes fresh verification stubs with commit-specific URLs and expected state when collaborator repository reads disagree.
 
 ## Orientation instruction
