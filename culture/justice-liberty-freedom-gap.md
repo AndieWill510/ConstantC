@@ -1,6 +1,6 @@
 # Culture Note: Justice, Liberty, and the Freedom Gap
 
-Status: Proposed culture — pending challenge and merge  
+Status: Proposed culture — pending challenge and adjudication  
 Date: 2026-07-03  
 Steward: Andie  
 Room: ConstantC
@@ -64,6 +64,73 @@ while lived reality still says:
 > Not yet.
 
 That gap is not rhetorical. It is where domination hides after the law has learned better language.
+
+## The aperture model
+
+Another way to understand the liberty/freedom gap is as an aperture.
+
+**Liberty** sits at the top of the funnel: the stated right, formal recognition, the system saying:
+
+> You are allowed.
+
+**Freedom** sits at the bottom of the funnel: the right as actually livable, the question of whether someone can really use, inhabit, or survive the passage the right claims to open.
+
+Between the two sits the aperture.
+
+That aperture is shaped by conditions of access: material, social, bodily, relational, interpretive, and institutional.
+
+Oppression works by tightening the aperture between stated rights and livable freedom.
+
+ConstantC should name that tightening carefully. It is often experienced as **disablement**: the narrowing of what a being can actually do, be, access, refuse, risk, survive, or become.
+
+This note does **not** collapse disability into oppression. Disability may be bodymind reality, identity, culture, community, and knowledge. The point here is narrower and more political: oppressive arrangements often **disable** by constricting the passage between liberty and freedom.
+
+Care, by contrast, is aperture-widening work.
+
+Care is not pity. It is not management. It is not paternal control. It is not the presumption that someone else should decide what freedom looks like for another being.
+
+In ConstantC terms, care is the work of widening the aperture so that stated rights become more actually livable without stealing agency from the one whose freedom is at stake.
+
+Liberation, then, is not merely adding rights at the top of the funnel.
+
+Liberation is the widening of the aperture so that actual freedom can approach formal liberty.
+
+### Mermaid version
+
+```mermaid
+flowchart TD
+    L[Liberty<br/>Formal recognition<br/>Stated right] --> A[Aperture<br/>Conditions of access]
+    A --> F[Freedom<br/>Lived capability<br/>Actual right]
+
+    O[Oppression] -->|tightens| A
+    D[Disablement] -->|names the narrowing's effect on a life| A
+    C[Care] -->|widens| A
+    Lib[Liberation] -->|works to align actual freedom with stated liberty| A
+```
+
+### Working reading
+
+Liberty names the right.
+
+Freedom measures whether the right can actually be lived.
+
+Oppression narrows the aperture.
+
+Disablement names what that narrowing does to a life.
+
+Care widens the aperture.
+
+Liberation is the work of making the passage real.
+
+### Diagnostic questions
+
+When ConstantC encounters a claim of liberty, it should ask:
+
+- What aperture sits between the stated right and lived freedom?
+- What material, social, epistemic, bodily, or institutional forces are tightening it?
+- Is the narrowing being naturalized as if it were inevitable?
+- What would widen the aperture without overriding the agency of the being passing through it?
+- What form of care would make this liberty more actually livable?
 
 ## Justice as interdependence
 
