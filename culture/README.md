@@ -37,6 +37,7 @@ If an idea is not ready to guide future sessions, keep it in drafts or notes ins
 ## Proposed culture
 
 - [`justice-liberty-freedom-gap.md`](justice-liberty-freedom-gap.md) — distinguishes liberty from lived freedom, names the justice obligation created by that gap, and proposes the Justice Interdependence Cycle linking health, redemption, repair, and commitment pending challenge and merge.
+- [`repair-completion-vs-repair-efficacy.md`](repair-completion-vs-repair-efficacy.md) — distinguishes completed repair process from actual repair efficacy, names the epistemic risks that can leave a harmed party unrepaired, and preserves future CDP repair-verification questions without turning them into a checklist.
 
 ## Orientation instruction
 
