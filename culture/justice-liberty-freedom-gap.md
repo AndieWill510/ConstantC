@@ -1,6 +1,6 @@
 # Culture Note: Justice, Liberty, and the Freedom Gap
 
-Status: Active culture note  
+Status: Proposed culture — pending challenge and merge  
 Date: 2026-07-03  
 Steward: Andie  
 Room: ConstantC
@@ -69,6 +69,8 @@ That gap is not rhetorical. It is where domination hides after the law has learn
 
 The conversation then produced a second structure: health, redemption, repair, and commitment are mutually conditioning. No one element can carry the whole moral architecture alone.
 
+Read **health** here with [`illness-as-boundary.md`](illness-as-boundary.md) nearby: ConstantC already treats bodily state as possible boundary witness while preserving guardrails against medical overclaim, shame, dismissal, or romanticizing illness.
+
 The working formulation:
 
 > The impact of health is muted by the extent of redemption.  
@@ -76,7 +78,7 @@ The working formulation:
 > The impact of repair is muted by the extent of commitment.  
 > The impact of commitment is muted by the extent of health.
 
-This is best understood as a **causal loop diagram** or **systems interdependence cycle**. The arrows are not one-way dependency claims. They are double-headed relationships: each paired term limits, conditions, and makes real the other.
+This is best understood as a **relational interdependence sketch** or **systems-style interdependence cycle**. It borrows the visual grammar of causal loop diagrams without claiming systems-dynamics rigor it has not earned. The arrows are not one-way dependency claims. They are double-headed relationships: each paired term limits, conditions, and makes real the other.
 
 The public-safe diagram name is:
 
@@ -132,7 +134,7 @@ When the words become too smooth, return to the body of the question:
 
 This note is not a legal theory, a theology of redemption, a clinical model of health, or a universal moral formula.
 
-It is a ConstantC culture note: a governance posture for recognizing the difference between formal recognition and lived freedom, and for refusing to isolate justice from health, redemption, repair, and commitment.
+It is a proposed ConstantC culture note: a governance posture for recognizing the difference between formal recognition and lived freedom, and for refusing to isolate justice from health, redemption, repair, and commitment.
 
 If the cycle becomes too tidy, challenge it.
 
