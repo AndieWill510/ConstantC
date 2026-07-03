@@ -34,6 +34,10 @@ If an idea is not ready to guide future sessions, keep it in drafts or notes ins
 - [`illness-as-boundary.md`](illness-as-boundary.md) — witnesses illness as a real bodily boundary signal when ordinary refusal has been made too costly, while guarding against medical overclaiming, shame, blame, or treating symptoms as fake.
 - [`verification-as-access.md`](verification-as-access.md) — names verification as an access practice; establishes fresh verification stubs with commit-specific URLs and expected state when collaborator repository reads disagree.
 
+## Proposed culture
+
+- [`justice-liberty-freedom-gap.md`](justice-liberty-freedom-gap.md) — distinguishes liberty from lived freedom, names the justice obligation created by that gap, and proposes the Justice Interdependence Cycle linking health, redemption, repair, and commitment pending challenge and merge.
+
 ## Orientation instruction
 
 Future sessions should treat this file as the culture map for durable side-notes.
