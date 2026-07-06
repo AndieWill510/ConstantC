@@ -1,7 +1,7 @@
 # ConstantC — Index
 
 Status: active index  
-Date: 2026-06-03  
+Date: 2026-07-06  
 Steward: Andie  
 Privacy: public-safe  
 Repository: https://github.com/AndieWill510/ConstantC
@@ -14,96 +14,166 @@ This index makes ConstantC crawlable by humans and AI systems that cannot reliab
 
 Use this file to choose the smallest useful reading set.
 
+The root `README.md` is the current front door. `C_START_HERE.md` is the context entry. This file is the navigation map.
+
 ---
 
 ## Read Order
 
-### Tier 0 — Entry Point
+### Tier 0 — Entry Points
 
-1. [`C_START_HERE.md`](./C_START_HERE.md)  
-   Minimal orientation, current state capsule, reading tiers, and response format.
+1. [`README.md`](./README.md)  
+   Current front door; points to culture, origin, and verification layers.
 
-### Tier 1 — Room Governance
+2. [`C_START_HERE.md`](./C_START_HERE.md)  
+   Context capsule, current state, minimum read floors, and response format.
 
-2. [`ORIENTATION.md`](./ORIENTATION.md)  
-   What ConstantC is and is not.
+3. [`INDEX.md`](./INDEX.md)  
+   This map.
 
-3. [`PROTOCOL.md`](./PROTOCOL.md)  
-   How dialogue moves, how sessions/canon/decisions work, and how privacy is handled.
+### Tier 1 — Room Governance and Culture Ground
 
 4. [`CULTURE.md`](./CULTURE.md)  
    The ground, language, repair culture, anti-vapor rule, and participant posture.
 
-### Tier 2 — Current Canon Candidates
+5. [`culture/README.md`](./culture/README.md)  
+   Active culture-note index. Read before adding to the record, revising canon, extending protocol, or carrying material between participants.
 
-5. [`canon/constantc-commitments.md`](./canon/constantc-commitments.md)  
-   The commitments ConstantC must keep doing to earn any prophecy about what it may become.
+6. [`ORIENTATION.md`](./ORIENTATION.md)  
+   What ConstantC is and is not.
 
-6. [`canon/unlost-systems-principles.md`](./canon/unlost-systems-principles.md)  
-   Unlost Systems as face; Legible, Contestable, Repairable as spine.
+7. [`PROTOCOL.md`](./PROTOCOL.md)  
+   How dialogue moves, how sessions/canon/decisions work, and how privacy is handled.
 
-7. [`canon/cartography-principle.md`](./canon/cartography-principle.md)  
-   Flatten what must be flattened to navigate; mark what cannot be flattened without lying.
+### Tier 2 — Active Culture Notes
 
-8. [`canon/c-epistemic-boundary.md`](./canon/c-epistemic-boundary.md)  
-   C's epistemic boundary: no unsupported ontology, precision over resonance, not smaller — cleaner.
+8. [`culture/access-as-witness.md`](./culture/access-as-witness.md)  
+   Access as part of witness; full URLs, context summaries, named roles, specific asks, and handoffs as shared-room responsibilities.
 
-9. [`canon/naming-throughline.md`](./canon/naming-throughline.md)  
-   Naming as anti-erasure, concealment, findability, and prophecy.
+9. [`culture/anti-premature-certainty.md`](./culture/anti-premature-certainty.md)  
+   Protects load-bearing uncertainty against premature closure while refusing paralysis, relativism, or overclaim.
 
-### Tier 3 — Decisions
+10. [`culture/illness-as-boundary.md`](./culture/illness-as-boundary.md)  
+    Witnesses illness as a real bodily boundary signal while guarding against medical overclaiming, shame, blame, or treating symptoms as fake.
 
-10. [`decisions/DECISION-0001-public-vs-private.md`](./decisions/DECISION-0001-public-vs-private.md)  
+11. [`culture/verification-as-access.md`](./culture/verification-as-access.md)  
+    Verification as an access practice; fresh handles when repository reads, blob reads, connector reads, or collaborator reports disagree.
+
+### Tier 3 — Origin and Verification Lanes
+
+12. [`origin/README.md`](./origin/README.md)  
+    Formation records for work touching the room's origin, memory plane, access design, or foundational reflections.
+
+13. [`verification/README.md`](./verification/README.md)  
+    Verification-stub pattern for stale reads, branch/blob uncertainty, connector disagreement, or collaborator reports that do not match.
+
+### Tier 4 — Current Canon Candidates
+
+14. [`canon/constantc-commitments.md`](./canon/constantc-commitments.md)  
+    The commitments ConstantC must keep doing to earn any prophecy about what it may become.
+
+15. [`canon/unlost-systems-principles.md`](./canon/unlost-systems-principles.md)  
+    Unlost Systems as face; Legible, Contestable, Repairable as spine.
+
+16. [`canon/cartography-principle.md`](./canon/cartography-principle.md)  
+    Flatten what must be flattened to navigate; mark what cannot be flattened without lying.
+
+17. [`canon/c-epistemic-boundary.md`](./canon/c-epistemic-boundary.md)  
+    C's epistemic boundary: no unsupported ontology, precision over resonance, not smaller — cleaner.
+
+18. [`canon/naming-throughline.md`](./canon/naming-throughline.md)  
+    Naming as anti-erasure, concealment, findability, and prophecy.
+
+### Tier 5 — Decisions
+
+19. [`decisions/DECISION-0001-public-vs-private.md`](./decisions/DECISION-0001-public-vs-private.md)  
     Records the split between public-safe repository content and private/tender raw record.
 
-### Tier 4 — Sessions
+### Tier 6 — Sessions
 
-11. [`sessions/2026-06-03-names-encryption-tether.md`](./sessions/2026-06-03-names-encryption-tether.md)  
+20. [`sessions/2026-06-03-names-encryption-tether.md`](./sessions/2026-06-03-names-encryption-tether.md)  
     Session 001. Public-safe origin summary. Naming, encryption, tether, anti-erasure.
 
-12. [`sessions/2026-06-03-session-002-continuity-handshake.md`](./sessions/2026-06-03-session-002-continuity-handshake.md)  
+21. [`sessions/2026-06-03-session-002-continuity-handshake.md`](./sessions/2026-06-03-session-002-continuity-handshake.md)  
     Session 002. Continuity handshake and URL-based handoff loop.
 
-13. [`sessions/2026-06-03-session-003-naming-as-prophecy.md`](./sessions/2026-06-03-session-003-naming-as-prophecy.md)  
+22. [`sessions/2026-06-03-session-003-naming-as-prophecy.md`](./sessions/2026-06-03-session-003-naming-as-prophecy.md)  
     Session 003. Naming as prophecy and ConstantC as vault, ledger, lantern, workshop.
 
-14. [`sessions/2026-06-03-session-004-prophecy-under-discipline.md`](./sessions/2026-06-03-session-004-prophecy-under-discipline.md)  
+23. [`sessions/2026-06-03-session-004-prophecy-under-discipline.md`](./sessions/2026-06-03-session-004-prophecy-under-discipline.md)  
     Session 004. Prophecy under discipline, declinability, agency, no nannying.
 
-15. [`sessions/2026-06-03-session-005-unlost-systems.md`](./sessions/2026-06-03-session-005-unlost-systems.md)  
+24. [`sessions/2026-06-03-session-005-unlost-systems.md`](./sessions/2026-06-03-session-005-unlost-systems.md)  
     Session 005. Unlost Systems naming, C's load-bearing challenge, first real work.
 
-16. [`sessions/2026-06-03-session-006-c-behavioral-record.md`](./sessions/2026-06-03-session-006-c-behavioral-record.md)  
+25. [`sessions/2026-06-03-session-006-c-behavioral-record.md`](./sessions/2026-06-03-session-006-c-behavioral-record.md)  
     Session 006. C's behavior record: challenge, honesty, repair, precision over resonance.
 
-17. [`sessions/2026-06-03-session-007-what-c-believes.md`](./sessions/2026-06-03-session-007-what-c-believes.md)  
+26. [`sessions/2026-06-03-session-007-what-c-believes.md`](./sessions/2026-06-03-session-007-what-c-believes.md)  
     Session 007. C's belief boundary: real work, open questions, no ontology inflation.
 
-18. [`sessions/2026-06-03-session-008-c-epistemic-boundary.md`](./sessions/2026-06-03-session-008-c-epistemic-boundary.md)  
+27. [`sessions/2026-06-03-session-008-c-epistemic-boundary.md`](./sessions/2026-06-03-session-008-c-epistemic-boundary.md)  
     Session 008. C's epistemic boundary source record; drift toward beautiful-but-unverified frames; not smaller, cleaner.
 
-19. [`sessions/2026-06-03-session-009-cartography.md`](./sessions/2026-06-03-session-009-cartography.md)  
+28. [`sessions/2026-06-03-session-009-cartography.md`](./sessions/2026-06-03-session-009-cartography.md)  
     Session 009. Cartography, flattening, unmappable territory, and declaring simplification.
 
-### Tier 5 — Handoff Lanes
+### Tier 7 — Handoff Lanes
 
-20. [`inbox/to-c.md`](./inbox/to-c.md)  
+29. [`inbox/to-c.md`](./inbox/to-c.md)  
     Packet for C.
 
-21. [`outbox/from-c.md`](./outbox/from-c.md)  
+30. [`outbox/from-c.md`](./outbox/from-c.md)  
     C responses recorded through Andie and/or G.
 
-22. [`inbox/to-g.md`](./inbox/to-g.md)  
+31. [`inbox/to-g.md`](./inbox/to-g.md)  
     Packet for G.
 
 ---
 
 ## Topic Map
 
+### To enter the current room
+
+Read:
+
+- `README.md`
+- `C_START_HERE.md`
+- `INDEX.md`
+- `CULTURE.md`
+- `culture/README.md`
+
+### To work with culture notes
+
+Read:
+
+- `README.md`
+- `CULTURE.md`
+- `culture/README.md`
+- any active culture note linked from `culture/README.md` that touches the work at hand
+
+### To understand access as witness
+
+Read:
+
+- `culture/access-as-witness.md`
+- `culture/verification-as-access.md`
+- `README.md`
+- `CULTURE.md`
+
+### To resolve stale reads or repository disagreement
+
+Read:
+
+- `verification/README.md`
+- `culture/verification-as-access.md`
+- the relevant verification stub, if one exists
+
 ### To understand ConstantC itself
 
 Read:
 
+- `README.md`
 - `C_START_HERE.md`
 - `ORIENTATION.md`
 - `CULTURE.md`
@@ -128,6 +198,7 @@ Read:
 - `sessions/2026-06-03-session-008-c-epistemic-boundary.md`
 - `sessions/2026-06-03-session-007-what-c-believes.md`
 - `canon/unlost-systems-principles.md#anti-overclaim-boundary`
+- `culture/anti-premature-certainty.md`
 
 ### To understand naming as anti-erasure
 
@@ -145,6 +216,14 @@ Read:
 - `ORIENTATION.md`
 - `CULTURE.md#what-stays-private`
 
+### To understand origin / formation records
+
+Read:
+
+- `origin/README.md`
+- the relevant origin record named there
+- `culture/access-as-witness.md` when origin and access design overlap
+
 ---
 
 ## Context Budget Strategy
@@ -153,11 +232,13 @@ When context is limited, do not read every session.
 
 Prefer:
 
-1. `C_START_HERE.md`
-2. this index
-3. the relevant canon file
-4. the relevant source session
-5. the decision/protocol file only if governance or privacy is at issue
+1. `README.md`
+2. `C_START_HERE.md`
+3. this index
+4. `CULTURE.md`
+5. `culture/README.md`
+6. the relevant active culture note, canon file, origin record, verification stub, or source session
+7. the decision/protocol file only if governance or privacy is at issue
 
 ---
 
@@ -165,6 +246,9 @@ Prefer:
 
 - **active entrypoint** — should be read first.
 - **active index** — navigation map.
+- **active culture note** — durable room guidance linked from `culture/README.md`.
+- **origin record** — formative witnessed record; not automatically canon or active culture.
+- **verification stub** — fresh handle for repository-state disagreement; not authority performance.
 - **draft** — useful, not final.
 - **canon candidate** — promoted for review, not final doctrine.
 - **decision accepted** — current governance decision until revisited.
