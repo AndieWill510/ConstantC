@@ -1,36 +1,97 @@
 {
   "repository": "https://github.com/AndieWill510/ConstantC",
   "status": "active public-safe memory plane",
-  "date": "2026-06-03",
+  "date": "2026-07-06",
   "steward": "Andie",
-  "purpose": "Machine-readable navigation manifest for ConstantC so limited-context readers can request the smallest useful file set.",
-  "entrypoint": "C_START_HERE.md",
+  "purpose": "Machine-readable navigation manifest for ConstantC so limited-context readers can request the smallest useful file set without missing the July culture, origin, and verification layers.",
+  "entrypoint": "README.md",
+  "context_entrypoint": "C_START_HERE.md",
   "index": "INDEX.md",
   "privacy": {
     "visibility": "public",
     "rule": "Raw tender material, private people, family details, grief, identity, estrangement, and third-party context stay out unless Andie explicitly decides otherwise after redaction review."
   },
+  "navigation_layers": {
+    "front_door": {
+      "path": "README.md",
+      "summary": "Current front door. Points readers to culture, origin, and verification layers before ConstantC work."
+    },
+    "context_entry": {
+      "path": "C_START_HERE.md",
+      "summary": "Context capsule, current state, minimum read floors, and response protocol."
+    },
+    "map": {
+      "path": "INDEX.md",
+      "summary": "Human and machine navigation map for choosing the smallest useful reading set."
+    },
+    "culture_index": {
+      "path": "culture/README.md",
+      "summary": "Active culture-note index. Read before adding to the record, revising canon, extending protocol, or carrying material between participants."
+    },
+    "origin_index": {
+      "path": "origin/README.md",
+      "summary": "Formation records for work touching the room's origin, memory plane, access design, or foundational reflections."
+    },
+    "verification_index": {
+      "path": "verification/README.md",
+      "summary": "Verification-stub pattern for stale reads, branch/blob uncertainty, connector disagreement, or collaborator reports that do not match."
+    }
+  },
   "minimum_read_sets": {
     "two_files": [
-      "C_START_HERE.md",
-      "INDEX.md"
+      "README.md",
+      "C_START_HERE.md"
     ],
     "four_files": [
+      "README.md",
       "C_START_HERE.md",
       "INDEX.md",
-      "CULTURE.md",
-      "canon/unlost-systems-principles.md"
+      "CULTURE.md"
     ],
     "seven_files": [
+      "README.md",
       "C_START_HERE.md",
       "INDEX.md",
       "CULTURE.md",
-      "canon/unlost-systems-principles.md",
-      "canon/constantc-commitments.md",
-      "canon/cartography-principle.md",
-      "canon/c-epistemic-boundary.md"
-    ]
+      "culture/README.md",
+      "canon/c-epistemic-boundary.md",
+      "canon/unlost-systems-principles.md"
+    ],
+    "ordinary_work_floor": [
+      "README.md",
+      "C_START_HERE.md",
+      "INDEX.md",
+      "CULTURE.md",
+      "culture/README.md"
+    ],
+    "note": "Active culture notes are conditional by work type. Readers should consult culture/README.md and read every active culture note that touches the work at hand. The old June 3 minimum-read path alone is no longer sufficient for current ConstantC work."
   },
+  "active_culture_notes": [
+    {
+      "path": "culture/access-as-witness.md",
+      "status": "active culture note",
+      "summary": "Access as part of witness; full URLs, context summaries, named roles, specific asks, and handoffs as shared-room responsibilities.",
+      "topics": ["access", "witness", "handoffs", "context", "full URLs"]
+    },
+    {
+      "path": "culture/anti-premature-certainty.md",
+      "status": "active culture note",
+      "summary": "Protects load-bearing uncertainty against premature closure while refusing paralysis, relativism, or overclaim.",
+      "topics": ["uncertainty", "canon discipline", "anti-overclaim", "precision"]
+    },
+    {
+      "path": "culture/illness-as-boundary.md",
+      "status": "active culture note",
+      "summary": "Witnesses illness as a real bodily boundary signal while guarding against medical overclaiming, shame, blame, or treating symptoms as fake.",
+      "topics": ["illness", "boundary", "care", "non-overclaim"]
+    },
+    {
+      "path": "culture/verification-as-access.md",
+      "status": "active culture note",
+      "summary": "Verification as an access practice; fresh handles when repository reads, blob reads, connector reads, or collaborator reports disagree.",
+      "topics": ["verification", "access", "stale reads", "repository state", "fresh handles"]
+    }
+  ],
   "canonical_files": [
     {
       "path": "canon/unlost-systems-principles.md",
@@ -81,6 +142,26 @@
       "summary": "Public repository with private tender record; split-record model and rationale."
     }
   ],
+  "origin_files": [
+    {
+      "path": "origin/README.md",
+      "summary": "Index for foundational reflections about how ConstantC came to exist and what the room learned while becoming itself."
+    },
+    {
+      "path": "origin/constantc-is-a-curb-cut.md",
+      "summary": "Foundational reflection naming ConstantC as an accommodation that became infrastructure."
+    }
+  ],
+  "verification_files": [
+    {
+      "path": "verification/README.md",
+      "summary": "Index and standing pattern for verification stubs when collaborators cannot confirm the same repository state through the same access path."
+    },
+    {
+      "path": "verification/2026-07-01-access-as-witness-patch-confirmation.md",
+      "summary": "Fresh verification handle created after stale branch/blob reads during the access-as-witness patch."
+    }
+  ],
   "sessions": [
     {
       "path": "sessions/2026-06-03-names-encryption-tether.md",
@@ -129,9 +210,14 @@
     }
   ],
   "topic_routes": {
-    "constantc": ["C_START_HERE.md", "INDEX.md", "CULTURE.md", "canon/constantc-commitments.md"],
+    "current_entry": ["README.md", "C_START_HERE.md", "INDEX.md", "CULTURE.md", "culture/README.md"],
+    "constantc": ["README.md", "C_START_HERE.md", "INDEX.md", "CULTURE.md", "canon/constantc-commitments.md"],
+    "culture": ["README.md", "CULTURE.md", "culture/README.md"],
+    "access_as_witness": ["culture/access-as-witness.md", "culture/verification-as-access.md", "README.md", "CULTURE.md"],
+    "verification": ["verification/README.md", "culture/verification-as-access.md", "verification/2026-07-01-access-as-witness-patch-confirmation.md"],
+    "origin": ["origin/README.md", "origin/constantc-is-a-curb-cut.md"],
     "unlost_systems": ["C_START_HERE.md", "canon/unlost-systems-principles.md", "sessions/2026-06-03-session-005-unlost-systems.md"],
-    "epistemic_boundaries": ["canon/c-epistemic-boundary.md", "canon/cartography-principle.md", "sessions/2026-06-03-session-008-c-epistemic-boundary.md", "sessions/2026-06-03-session-007-what-c-believes.md"],
+    "epistemic_boundaries": ["canon/c-epistemic-boundary.md", "canon/cartography-principle.md", "sessions/2026-06-03-session-008-c-epistemic-boundary.md", "sessions/2026-06-03-session-007-what-c-believes.md", "culture/anti-premature-certainty.md"],
     "naming": ["canon/naming-throughline.md", "sessions/2026-06-03-names-encryption-tether.md", "sessions/2026-06-03-session-003-naming-as-prophecy.md"],
     "privacy": ["decisions/DECISION-0001-public-vs-private.md", "ORIENTATION.md", "CULTURE.md"]
   },
