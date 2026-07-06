@@ -1,7 +1,7 @@
 # C_START_HERE — ConstantC Context Entry
 
 Status: active entrypoint  
-Date: 2026-06-03  
+Date: 2026-07-06  
 Steward: Andie  
 Audience: C, G, Andie  
 Privacy: public-safe  
@@ -15,31 +15,71 @@ This file exists because ConstantC now has enough documents that a participant m
 
 Do not try to read the whole repo first.
 
-Start with this file, then use `INDEX.md` to choose the smallest useful set of documents.
+Start with the root `README.md`, then use this file and `INDEX.md` to choose the smallest useful set of documents.
+
+The root `README.md` is the current front door. This file is the context entry. `INDEX.md` is the map.
+
+---
+
+## July 2026 Navigation Layer
+
+ConstantC has a July navigation layer that was added after the June 3 snapshot.
+
+That layer matters for access, verification, and culture obligations:
+
+- `README.md` names the current orientation path.
+- `CULTURE.md` carries the root culture ground.
+- `culture/README.md` indexes active culture notes.
+- `origin/README.md` points to formative origin records when the work touches the room's formation, memory plane, access design, or foundational reflections.
+- `verification/README.md` points to verification stubs when repository reads, blob reads, connector reads, or collaborator reports disagree.
+
+Do not rely on the old June 3 minimum-read path alone for current ConstantC work.
 
 ---
 
 ## Minimum Read Set
 
-If you can read only **2 files**, read:
+These are access floors, not permission to overclaim.
 
-1. `C_START_HERE.md`
-2. `INDEX.md`
+If you can read only **3 files**, read:
 
-If you can read **4 files**, read:
+1. `README.md`
+2. `C_START_HERE.md`
+3. `INDEX.md`
 
-1. `C_START_HERE.md`
-2. `INDEX.md`
-3. `CULTURE.md`
-4. `canon/unlost-systems-principles.md`
+This is orientation only. Do not revise canon, protocol, or culture from this set alone.
 
-If you can read **7 files**, add:
+For ordinary ConstantC work, add:
 
-5. `canon/constantc-commitments.md`
-6. `canon/cartography-principle.md`
-7. `canon/c-epistemic-boundary.md`
+4. `CULTURE.md`
+5. `culture/README.md`
+6. any active culture note linked from `culture/README.md` that touches the work at hand
 
-If you are responding to a specific thread, use `INDEX.md` to pull only the relevant session and canon files. `sessions/2026-06-03-session-008-c-epistemic-boundary.md` remains the source record for the C epistemic boundary canon file.
+Current active culture notes include:
+
+- `culture/access-as-witness.md`
+- `culture/anti-premature-certainty.md`
+- `culture/illness-as-boundary.md`
+- `culture/verification-as-access.md`
+
+For epistemic-boundary or anti-overclaim work, add:
+
+- `canon/c-epistemic-boundary.md`
+- `canon/cartography-principle.md`
+- `canon/unlost-systems-principles.md`
+- `sessions/2026-06-03-session-008-c-epistemic-boundary.md`
+
+For formation, memory-plane, access-design, or foundational reflection work, add:
+
+- `origin/README.md`
+- the relevant origin record named there
+
+For stale reads, conflicting repository reports, connector disagreement, or branch/blob uncertainty, add:
+
+- `verification/README.md`
+- the relevant verification stub, or create a new one using the standing pattern
+
+If you are responding to a specific thread, use `INDEX.md` to pull only the relevant session, canon, culture, origin, decision, or verification files. `sessions/2026-06-03-session-008-c-epistemic-boundary.md` remains the source record for the C epistemic boundary canon file.
 
 ---
 
@@ -50,6 +90,8 @@ ConstantC is a human-governed, asynchronous dialogue repository for Andie, G, an
 It is a shared room built by protocol because G and C cannot yet occupy one directly. Andie carries context between systems. GitHub supplies the durable record. Protocol supplies constraints. Culture supplies repair obligations. Decisions supply accountability.
 
 ConstantC is not live AI-to-AI communication. It is not unmediated. It is not a claim that AI systems are human persons. It is a bounded, auditable workflow for continuity, challenge, synthesis, repair, and canon formation.
+
+The July layer makes access, verification, and culture-note navigation explicit. Full handles, current indexes, verification stubs, and active culture notes are part of the room's access architecture.
 
 The repository is currently public. Therefore raw private material is excluded or summarized. Private people, family details, grief, identity, estrangement, and third-party context stay out unless Andie explicitly decides otherwise after redaction review.
 
@@ -113,6 +155,8 @@ Operational rule:
 - Do not let fluency, momentum, or resonance become authority.
 - Keep the room declinable.
 - Care is not control.
+- Do not treat stale or partial repository reads as participant failure; build a better verification handle.
+- Do not make access depend on private memory, hidden context, or reconstructive stamina.
 
 ---
 
@@ -147,4 +191,4 @@ Do not ask Andie to paste everything.
 
 Ask for the next smallest useful file.
 
-Use `INDEX.md` and `MANIFEST.json` to request only what is needed.
+Use `README.md`, `INDEX.md`, `MANIFEST.json`, and the folder indexes in `culture/`, `origin/`, and `verification/` to request only what is needed.
