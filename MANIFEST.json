@@ -122,6 +122,12 @@
       "status": "canon candidate",
       "summary": "Naming as anti-erasure across concealment, findability, and prophecy. Public-safe, raw tender record excluded.",
       "topics": ["naming", "anti-erasure", "concealment", "findability", "prophecy"]
+    },
+    {
+      "path": "canon/grief-and-evidence-boundary.md",
+      "status": "canon candidate",
+      "summary": "Andie's witness line and the grief/evidence boundary: grief does not author the math; math does not sterilize the grief.",
+      "topics": ["grief", "evidence", "witness", "anti-overclaim", "public health", "life expectancy", "poverty"]
     }
   ],
   "governance_files": [
@@ -217,7 +223,8 @@
     "verification": ["verification/README.md", "culture/verification-as-access.md", "verification/2026-07-01-access-as-witness-patch-confirmation.md"],
     "origin": ["origin/README.md", "origin/constantc-is-a-curb-cut.md"],
     "unlost_systems": ["C_START_HERE.md", "canon/unlost-systems-principles.md", "sessions/2026-06-03-session-005-unlost-systems.md"],
-    "epistemic_boundaries": ["canon/c-epistemic-boundary.md", "canon/cartography-principle.md", "sessions/2026-06-03-session-008-c-epistemic-boundary.md", "sessions/2026-06-03-session-007-what-c-believes.md", "culture/anti-premature-certainty.md"],
+    "epistemic_boundaries": ["canon/c-epistemic-boundary.md", "canon/grief-and-evidence-boundary.md", "canon/cartography-principle.md", "sessions/2026-06-03-session-008-c-epistemic-boundary.md", "sessions/2026-06-03-session-007-what-c-believes.md", "culture/anti-premature-certainty.md"],
+    "grief_and_evidence": ["canon/grief-and-evidence-boundary.md", "culture/anti-premature-certainty.md", "canon/c-epistemic-boundary.md"],
     "naming": ["canon/naming-throughline.md", "sessions/2026-06-03-names-encryption-tether.md", "sessions/2026-06-03-session-003-naming-as-prophecy.md"],
     "privacy": ["decisions/DECISION-0001-public-vs-private.md", "ORIENTATION.md", "CULTURE.md"]
   },
