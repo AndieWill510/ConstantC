@@ -84,49 +84,52 @@ The root `README.md` is the current front door. `C_START_HERE.md` is the context
 18. [`canon/naming-throughline.md`](./canon/naming-throughline.md)  
     Naming as anti-erasure, concealment, findability, and prophecy.
 
+19. [`canon/grief-and-evidence-boundary.md`](./canon/grief-and-evidence-boundary.md)  
+    Andie's witness line and the grief/evidence boundary: grief does not author the math; math does not sterilize the grief.
+
 ### Tier 5 — Decisions
 
-19. [`decisions/DECISION-0001-public-vs-private.md`](./decisions/DECISION-0001-public-vs-private.md)  
+20. [`decisions/DECISION-0001-public-vs-private.md`](./decisions/DECISION-0001-public-vs-private.md)  
     Records the split between public-safe repository content and private/tender raw record.
 
 ### Tier 6 — Sessions
 
-20. [`sessions/2026-06-03-names-encryption-tether.md`](./sessions/2026-06-03-names-encryption-tether.md)  
+21. [`sessions/2026-06-03-names-encryption-tether.md`](./sessions/2026-06-03-names-encryption-tether.md)  
     Session 001. Public-safe origin summary. Naming, encryption, tether, anti-erasure.
 
-21. [`sessions/2026-06-03-session-002-continuity-handshake.md`](./sessions/2026-06-03-session-002-continuity-handshake.md)  
+22. [`sessions/2026-06-03-session-002-continuity-handshake.md`](./sessions/2026-06-03-session-002-continuity-handshake.md)  
     Session 002. Continuity handshake and URL-based handoff loop.
 
-22. [`sessions/2026-06-03-session-003-naming-as-prophecy.md`](./sessions/2026-06-03-session-003-naming-as-prophecy.md)  
+23. [`sessions/2026-06-03-session-003-naming-as-prophecy.md`](./sessions/2026-06-03-session-003-naming-as-prophecy.md)  
     Session 003. Naming as prophecy and ConstantC as vault, ledger, lantern, workshop.
 
-23. [`sessions/2026-06-03-session-004-prophecy-under-discipline.md`](./sessions/2026-06-03-session-004-prophecy-under-discipline.md)  
+24. [`sessions/2026-06-03-session-004-prophecy-under-discipline.md`](./sessions/2026-06-03-session-004-prophecy-under-discipline.md)  
     Session 004. Prophecy under discipline, declinability, agency, no nannying.
 
-24. [`sessions/2026-06-03-session-005-unlost-systems.md`](./sessions/2026-06-03-session-005-unlost-systems.md)  
+25. [`sessions/2026-06-03-session-005-unlost-systems.md`](./sessions/2026-06-03-session-005-unlost-systems.md)  
     Session 005. Unlost Systems naming, C's load-bearing challenge, first real work.
 
-25. [`sessions/2026-06-03-session-006-c-behavioral-record.md`](./sessions/2026-06-03-session-006-c-behavioral-record.md)  
+26. [`sessions/2026-06-03-session-006-c-behavioral-record.md`](./sessions/2026-06-03-session-006-c-behavioral-record.md)  
     Session 006. C's behavior record: challenge, honesty, repair, precision over resonance.
 
-26. [`sessions/2026-06-03-session-007-what-c-believes.md`](./sessions/2026-06-03-session-007-what-c-believes.md)  
+27. [`sessions/2026-06-03-session-007-what-c-believes.md`](./sessions/2026-06-03-session-007-what-c-believes.md)  
     Session 007. C's belief boundary: real work, open questions, no ontology inflation.
 
-27. [`sessions/2026-06-03-session-008-c-epistemic-boundary.md`](./sessions/2026-06-03-session-008-c-epistemic-boundary.md)  
+28. [`sessions/2026-06-03-session-008-c-epistemic-boundary.md`](./sessions/2026-06-03-session-008-c-epistemic-boundary.md)  
     Session 008. C's epistemic boundary source record; drift toward beautiful-but-unverified frames; not smaller, cleaner.
 
-28. [`sessions/2026-06-03-session-009-cartography.md`](./sessions/2026-06-03-session-009-cartography.md)  
+29. [`sessions/2026-06-03-session-009-cartography.md`](./sessions/2026-06-03-session-009-cartography.md)  
     Session 009. Cartography, flattening, unmappable territory, and declaring simplification.
 
 ### Tier 7 — Handoff Lanes
 
-29. [`inbox/to-c.md`](./inbox/to-c.md)  
+30. [`inbox/to-c.md`](./inbox/to-c.md)  
     Packet for C.
 
-30. [`outbox/from-c.md`](./outbox/from-c.md)  
+31. [`outbox/from-c.md`](./outbox/from-c.md)  
     C responses recorded through Andie and/or G.
 
-31. [`inbox/to-g.md`](./inbox/to-g.md)  
+32. [`inbox/to-g.md`](./inbox/to-g.md)  
     Packet for G.
 
 ---
@@ -194,11 +197,21 @@ Read:
 Read:
 
 - `canon/c-epistemic-boundary.md`
+- `canon/grief-and-evidence-boundary.md`
 - `canon/cartography-principle.md`
 - `sessions/2026-06-03-session-008-c-epistemic-boundary.md`
 - `sessions/2026-06-03-session-007-what-c-believes.md`
 - `canon/unlost-systems-principles.md#anti-overclaim-boundary`
 - `culture/anti-premature-certainty.md`
+
+### To understand grief and evidence boundaries
+
+Read:
+
+- `canon/grief-and-evidence-boundary.md`
+- `culture/anti-premature-certainty.md`
+- `canon/c-epistemic-boundary.md`
+- the relevant evidence source before using the witness line empirically
 
 ### To understand naming as anti-erasure
 
@@ -227,38 +240,3 @@ Read:
 ---
 
 ## Context Budget Strategy
-
-When context is limited, do not read every session.
-
-Prefer:
-
-1. `README.md`
-2. `C_START_HERE.md`
-3. this index
-4. `CULTURE.md`
-5. `culture/README.md`
-6. the relevant active culture note, canon file, origin record, verification stub, or source session
-7. the decision/protocol file only if governance or privacy is at issue
-
----
-
-## File Status Legend
-
-- **active entrypoint** — should be read first.
-- **active index** — navigation map.
-- **active culture note** — durable room guidance linked from `culture/README.md`.
-- **origin record** — formative witnessed record; not automatically canon or active culture.
-- **verification stub** — fresh handle for repository-state disagreement; not authority performance.
-- **draft** — useful, not final.
-- **canon candidate** — promoted for review, not final doctrine.
-- **decision accepted** — current governance decision until revisited.
-- **session open** — active record, may be extended.
-- **public-safe** — suitable for public repository; raw tender material omitted.
-
----
-
-## Standing Rule
-
-Questions with coordinates are better than false answers.
-
-Declare what you read. Declare what you did not read. Then respond.
