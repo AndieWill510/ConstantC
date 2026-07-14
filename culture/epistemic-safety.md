@@ -1,18 +1,16 @@
-culture/epistemic-safety.md — replace entire file
+# Culture Note: Epistemic Safety
 
-Culture Note: Epistemic Safety
+Status: Proposed culture note  
+Date: 2026-07-14  
+Steward: Andie  
+Room: ConstantC  
+Confidence: Governance candidate; cross-cutting audit dimension attached to contestability; not yet canon  
+Lineage: Miranda Fricker on testimonial injustice; Kristie Dotson on testimonial smothering and epistemic oppression; Jennifer Freyd on institutional betrayal and DARVO  
+Related files: `culture/anti-premature-certainty.md`, `canon/c-epistemic-boundary.md`, `canon/grief-and-evidence-boundary.md`, `canon/unlost-systems-principles.md`
 
-Status: Proposed culture note
-Date: 2026-07-14
-Steward: Andie
-Room: ConstantC
-Confidence: Governance candidate; interpretive bridge grounded in established social epistemology; not yet canon
-Lineage: Miranda Fricker’s work on epistemic injustice, especially testimonial injustice
-Related files: culture/anti-premature-certainty.md, canon/c-epistemic-boundary.md, canon/grief-and-evidence-boundary.md, canon/unlost-systems-principles.md
+---
 
-⸻
-
-Opening
+## Opening
 
 Some systems permit challenge while ensuring that challengers cannot matter.
 
@@ -20,97 +18,108 @@ A person may be allowed to speak, report, appeal, testify, escalate, object, or 
 
 The process is formally contestable.
 
-The person is not preserved as a credible participant in truth.
+The challenger is not preserved as a credible participant in truth.
 
 That gap is the subject of this note.
 
-⸻
+---
 
-Intellectual lineage
+## Intellectual lineage
 
 The underlying injury is not newly discovered.
 
-Miranda Fricker’s work on epistemic injustice, especially testimonial injustice, describes the wrong done when a speaker receives less credibility than the evidence warrants because of prejudice, identity, social position, or structural power.
+Miranda Fricker's work on testimonial injustice describes the wrong done when a speaker receives less credibility than the evidence warrants because of prejudice, identity, social position, or structural power.
 
-This note does not claim originality for that concept.
+Kristie Dotson's work on testimonial smothering and epistemic oppression is especially relevant where people constrain or silence their own testimony because they reasonably anticipate that the audience lacks the willingness or capacity to understand it.
+
+Jennifer Freyd's work on institutional betrayal and DARVO is relevant where an institution or accused party protects itself by denying harm, attacking the challenger, and reversing the roles of victim and offender.
+
+This note does not claim originality for those concepts.
 
 Its proposed contribution is narrower:
 
-Epistemic safety may be treated as a governance property spanning institutions, organizations, relationships, and sociotechnical systems.
+> Epistemic safety may be treated as a cross-cutting governance audit dimension spanning institutions, organizations, relationships, and sociotechnical systems.
 
-The question is not only whether epistemic injustice occurs.
+The governance question is whether a system preserves meaningful standing as a knower when a person challenges its account.
 
-The governance question is whether a system is designed so that people retain meaningful standing as knowers when they challenge it.
+---
 
-⸻
-
-Core distinction
+## Core distinction
 
 Psychological safety asks:
 
-Can I speak without humiliation or retaliation?
+> Can I speak without humiliation or retaliation?
 
 Contestability asks:
 
-Am I permitted to challenge this decision, record, classification, or account?
+> Is there a legitimate mechanism through which this decision, record, classification, or account can be challenged and reweighed?
 
 Epistemic safety asks:
 
-Will I retain meaningful standing as a knower when I do?
+> Does the challenger retain meaningful standing as a knower throughout that process?
 
-These questions overlap, but they are not identical.
+These questions overlap.
 
-A process may be psychologically polite and procedurally contestable while remaining epistemically unsafe.
+The current working verdict is not that epistemic safety has proven itself independent of rigorous contestability.
 
-A person may be invited to appeal while the institution treats their testimony as inherently less reliable than its own record.
+It may instead be a completeness condition for contestability: a way of testing whether challenge exists only in form or also in substance.
 
-A worker may be encouraged to report harm while dissent lowers their credibility.
+The cleanest surviving formulation is:
 
-A user may be permitted to challenge an automated decision while machine-generated evidence receives presumptive authority over lived evidence.
+> Contestability describes a formal right or available mechanism to challenge. Epistemic safety describes whether the person exercising that right remains a credible source when they do.
 
-⸻
+---
 
-Working definition
+## Standing is not correctness
 
-A system is epistemically safer when affected people retain meaningful standing as knowers throughout challenge, adjudication, and repair.
+Standing to be heard is not presumptive correctness.
 
-That requires more than permission to speak.
+Epistemic safety does not require every testimony to be believed, every challenge to prevail, or every credibility judgment to remain permanently open.
 
-It requires that:
+It requires that testimony be evaluated through accountable evidentiary standards rather than discounted merely because of identity, status, distress, disagreement, persistence, or threat to institutional convenience.
 
-* testimony is assessed in relation to evidence rather than status alone;
-* credibility discounts can be identified and challenged;
-* distress does not automatically invalidate testimony;
-* disagreement does not itself become evidence of unreliability;
-* institutional records remain revisable;
-* uncertainty can remain open without erasing the witness;
-* new evidence can alter the controlling account;
-* credibility judgments are not immune from review;
-* repair can revise both the decision and the story used to justify it.
+A challenger may be mistaken and still retain standing.
 
-⸻
+A system may reject a claim and remain epistemically safer when it:
 
-The independence claim
+- states the evidentiary basis for rejection;
+- distinguishes credibility from correctness;
+- preserves provenance;
+- allows relevant contrary evidence;
+- records unresolved uncertainty;
+- provides bounded review;
+- avoids retaliatory credibility loss.
 
-Contestability describes a formal right or available mechanism to challenge.
+Epistemic safety is not immunity from challenge.
 
-Epistemic safety describes whether the person exercising that right remains a credible source when they do.
+It is protection against being disqualified as a knower before the evidence has done the disqualifying work.
 
-Therefore:
+---
 
-A process can be procedurally contestable while remaining epistemically unsafe.
+## Termination without epistemic foreclosure
 
-This is the candidate independence proof.
+A working system cannot permit infinite regress.
 
-If a system allows appeals, objections, reports, testimony, or review but structurally discounts the people exercising those mechanisms, contestability exists in form while failing in substance.
+Credibility judgments and appeals must terminate somewhere.
 
-Epistemic safety is therefore not automatically guaranteed by contestability.
+Termination is legitimate when:
 
-Whether it deserves recognition as an independent Unlost Systems primitive remains open pending concrete cases, audit use, challenge, and repair.
+- the authority and scope of the final adjudicator are explicit;
+- the evidentiary standard is known;
+- conflicts of interest are addressed;
+- the decision and credibility basis are recorded;
+- the record distinguishes final-for-process from infallible-in-truth;
+- reopening conditions are defined for material new evidence, procedural failure, or demonstrated bias.
 
-⸻
+The final adjudicator is final within a bounded process.
 
-Epistemic erosion
+The final adjudicator is not transformed into a permanent and unquestionable owner of reality.
+
+This is how a system terminates challenge without pretending that termination proves correctness.
+
+---
+
+## Epistemic erosion
 
 Epistemic unsafety does not require lying, shouting, hostility, or conscious malice.
 
@@ -118,161 +127,172 @@ It can emerge through ordinary procedures and respectable language.
 
 Common mechanisms include:
 
-* requiring unequal standards of proof;
-* treating institutional records as presumptively correct;
-* turning emotional response into evidence against credibility;
-* collapsing disagreement into incapacity or noncompliance;
-* allowing hierarchy to determine whose account is realistic;
-* preserving a conclusion after its supporting evidence changes;
-* making the credibility judgment itself unchallengeable;
-* permitting testimony without allowing testimony to alter the outcome;
-* treating the challenger’s persistence as proof that the challenge is illegitimate;
-* confusing fluency, calmness, credentials, or status with truth.
+- requiring unequal standards of proof;
+- treating institutional records as presumptively infallible;
+- turning emotional response into evidence against credibility;
+- collapsing disagreement into incapacity or noncompliance;
+- allowing hierarchy to determine whose account is realistic;
+- preserving a conclusion after its supporting evidence changes;
+- making credibility judgments effectively unchallengeable;
+- permitting testimony without allowing testimony to alter institutional belief;
+- treating persistence as proof that the challenge is illegitimate;
+- confusing fluency, calmness, credentials, or status with truth;
+- encouraging disclosure while predictably punishing the discloser;
+- producing conditions under which people rationally smother their own testimony.
 
 A system can perform these moves politely.
 
 The epistemic injury remains.
 
-⸻
+---
 
-Epistemic safety audit
+## Epistemic safety audit
 
 A system claiming epistemic safety should be able to answer:
 
 1. Who is permitted to introduce evidence?
 2. Whose testimony receives presumptive credibility?
-3. Whose testimony receives automatic discounting?
+3. Whose testimony receives automatic or patterned discounting?
 4. What evidence can overcome those defaults?
 5. Are credibility determinations recorded?
 6. Can credibility determinations be challenged?
-7. Can the adjudicator’s interpretation be reviewed?
-8. Does distress reduce credibility automatically?
+7. Can the adjudicator's interpretation be reviewed?
+8. Does distress reduce credibility automatically or disproportionately?
 9. Does disagreement become evidence of unreliability?
 10. Can lived evidence contradict system records?
-11. Can new evidence revise the controlling narrative?
+11. Can new evidence revise the controlling account?
 12. Does the challenger retain access, standing, and protection during review?
 13. Can a successful challenge repair both outcome and record?
-14. Who bears the burden when the evidence is incomplete?
+14. Who bears the burden when evidence is incomplete?
 15. What happens when the system itself caused the missing evidence?
+16. Where does review terminate?
+17. What conditions permit reopening?
+18. Are standing and correctness explicitly distinguished?
 
-These questions do not create a complete audit standard.
+These questions establish the shape of an audit, not a complete methodology.
 
-They establish the minimum shape of one.
+---
 
-⸻
+## Audit methodology
 
-Relationship to Unlost Systems
+Policy answers are insufficient.
 
-Unlost Systems currently names:
+An organization may state that distress, identity, source status, or disagreement do not affect credibility while reproducing exactly those discounts in practice.
 
-* legibility;
-* contestability;
-* repairability;
-* complexity tolerance;
-* continuity.
+A credible audit should combine:
 
-Epistemic safety may expose a gap across all five.
+- policy and procedure review;
+- sampled decision-record review;
+- comparison of stated and actual credibility rationales;
+- appeal reversal rates by source and challenger type;
+- rates of record correction after successful appeal;
+- time-to-resolution and abandonment rates;
+- qualitative review of whether testimony was understood before it was rejected;
+- analysis of whether automation or institutional records received unearned authority;
+- review of retaliation, access loss, or credibility degradation after challenge;
+- counterfactual testing using materially similar cases with different source identities or statuses.
 
-A system may be legible while assigning unequal credibility.
+The audit must examine outcomes and process traces, not only stated intent.
 
-It may be contestable while treating challengers as unreliable.
+### Candidate falsification criterion
 
-It may be repairable while refusing to revise the narrative that produced the harm.
+A strong claim that a system is epistemically unsafe should weaken or fail when evidence shows that, across materially comparable cases:
 
-It may tolerate complexity while still privileging institutionally convenient witnesses.
+- credibility is assessed by documented evidence quality rather than source status;
+- challengers retain access and standing;
+- credibility rationales are recorded and reviewable;
+- materially new evidence changes outcomes at appropriate rates;
+- successful challenges repair downstream records;
+- no patterned discount appears across identity, distress, hierarchy, or challenger status after relevant case differences are controlled.
 
-It may preserve continuity while preserving the wrong account.
+Absence of a disparity alone does not prove epistemic safety.
 
-The candidate claim is:
+But a framework that cannot state what evidence would count against its own claim is not ready to govern.
 
-Unlost systems must preserve not only access to process, but standing within truth-making.
+---
 
-This is not yet promoted as a new spine word.
+## Relationship to Unlost Systems
 
-It is a candidate governance primitive requiring concrete cases and an independence test.
+The current working position is modest:
 
-⸻
+> Epistemic safety is a cross-cutting audit dimension and possible completeness condition for contestability.
 
-Relationship to Trust and Safety organizations
+It is not yet a fifth primitive.
 
-Trust and Safety organizations routinely govern:
+It tests whether legibility, contestability, repairability, complexity tolerance, and continuity preserve affected people as meaningful participants in truth-making.
 
-* reports of harm;
-* abuse claims;
-* fraud claims;
-* moderation disputes;
-* account restrictions;
-* appeals;
-* whistleblower disclosures;
-* internal escalations;
-* safety research;
-* integrity investigations;
-* automated classifications;
-* policy exceptions.
+The primitive question remains open until a documented case demonstrates that a system meeting a rigorous standard of contestability can nevertheless remain epistemically unsafe in a distinct and non-redundant way.
 
-These organizations often provide formal mechanisms for challenge.
+---
 
-Formal mechanisms are not enough.
+## Trust and Safety test case
 
-A Trust and Safety organization may allow an appeal while structurally privileging:
+A useful first case is an automated account-suspension appeal.
 
-* platform records over user testimony;
-* automation over contextual evidence;
-* seniority over frontline observation;
-* institutional calm over distressed witness;
-* policy fluency over lived harm;
-* prior classifications over new evidence;
-* reputational protection over correction.
+The platform suspends an account based on an activity log or classifier output. The user offers a contextual account: compromise, coercion, shared access, false-positive classification, or activity generated outside their control.
 
-Epistemic safety provides a foundation for evaluating whether challenge is merely available or genuinely capable of altering institutional belief.
+The system may provide an appeal channel while treating the platform record as conclusive and the user's account as inherently self-serving.
 
-For CDP, this suggests a future requirement:
+The audit should ask:
 
-A consequential decision does not earn legitimacy merely because it can be challenged. The challenge process must preserve the challenger’s standing as a knower and permit evidence to revise both the decision and its governing account.
+- What authority is assigned to the activity log or classifier?
+- Can contextual evidence alter that authority?
+- Is the user's testimony understood before it is discounted?
+- Is the credibility discount stated and evidenced?
+- Can an independent reviewer reconsider both the outcome and the credibility judgment?
+- Does successful appeal repair linked risk scores, labels, enforcement history, and future model inputs?
+- Are reversal and abandonment rates patterned by language, disability, account type, status, or access to documentation?
 
-⸻
+This case is bounded enough to test the framework and common enough to matter.
 
-Autistic perception and institutional threat
+---
+
+## Candidate CDP attestation
+
+A future CDP Trust and Safety decision record could include an epistemic-safety attestation with:
+
+- source identifier and role;
+- evidence supplied by each source;
+- credibility basis per source;
+- evidentiary basis for any credibility discount;
+- distinction between standing and correctness;
+- standing-retained flag with rationale;
+- adjudicator identity and authority scope;
+- review and termination path;
+- reopening conditions;
+- unresolved uncertainty;
+- revision log;
+- downstream record-repair status.
+
+This is candidate schema work, not adopted CDP protocol.
+
+The Trust and Safety application should move toward a separate CDP RFC rather than continue expanding indefinitely inside this culture note.
+
+---
+
+## Autistic perception and institutional threat
 
 This note is not primarily about autistic relationships.
 
 Autistic people did not invent epistemic injustice, and epistemic safety is not an autism-specific property.
 
-Autistic experience may nevertheless make failures of epistemic safety unusually visible.
+The candidate interpretation is narrower:
 
-Many autistic people are required to negotiate credibility repeatedly across medical, educational, employment, family, legal, and social systems. They may notice contradiction, hidden rules, category errors, asymmetrical evidence standards, or failures of contestability that others have learned to treat as ordinary.
+> People who perceive and name failures of epistemic safety may become threatening to systems that depend on those failures remaining unnamed.
 
-The important claim is not that autistic people are automatically correct.
+Some autistic people may be especially exposed when they identify contradiction, hidden rules, category errors, asymmetric evidence standards, or failures of contestability that others have normalized.
 
-It is not that autistic perception is uniform.
+The claim is not that autistic people are automatically correct, that autistic perception is uniform, or that pattern recognition substitutes for evidence.
 
-It is not that heightened pattern recognition establishes truth without evidence.
+The claim is that autistic people may sometimes be punished not merely for misunderstanding a social system, but for understanding and naming parts of it that the system relies upon remaining tacit.
 
-The candidate claim is:
+This section is interpretive and requires evidence before stronger population-level claims are made.
 
-People who perceive and name failures of epistemic safety may become threatening to systems that depend on those failures remaining unnamed.
+It should not be used to romanticize autism, flatten autistic diversity, or substitute identity for proof.
 
-Autistic people may be disproportionately exposed to this danger when they:
+---
 
-* identify contradictions that preserve authority;
-* refuse socially convenient falsehoods;
-* ask for explicit rules where power depends on ambiguity;
-* distinguish procedure from legitimacy;
-* insist that records remain revisable;
-* challenge credibility hierarchies;
-* continue naming a failure after others have normalized it.
-
-This may help explain why some autistic people experience institutions as intensely unsafe even when those institutions appear calm, orderly, or benevolent.
-
-This section is interpretive, not yet an established population-level finding.
-
-It should not be used to romanticize autistic perception, flatten autistic diversity, or substitute identity for evidence.
-
-It names a hypothesis requiring further evidence and careful application.
-
-⸻
-
-Relationship to anti-premature certainty
+## Relationship to anti-premature certainty
 
 Premature certainty closes questions.
 
@@ -280,222 +300,51 @@ Epistemic unsafety can close questioners.
 
 Anti-premature certainty asks whether a conclusion has earned authority.
 
-Epistemic safety asks whether the people challenging that conclusion retain standing long enough for the question to remain real.
+Epistemic safety asks whether challengers retain standing long enough for the question to remain real.
 
-Together they require:
+---
 
-* earned certainty;
-* preserved dissent;
-* revisable conclusions;
-* visible credibility judgments;
-* challenge that can actually matter.
+## Candidate lines
 
-⸻
+> Contestability describes a formal right or available mechanism to challenge. Epistemic safety describes whether the person exercising that right remains a credible source when they do.
 
-Relationship to grief and evidence
+> Standing to be heard is not presumptive correctness.
 
-Epistemic safety requires faithful distinction.
+> A challenger may be mistaken and still retain standing.
 
-Name:
+> Permission to testify is not the same as standing to be considered.
 
-* what is observed;
-* what is measured;
-* what is inferred;
-* what is witnessed;
-* what is disputed;
-* what remains unverified;
-* who has standing to challenge each layer.
+> Credibility judgments are consequential decisions.
 
-Do not let grief author the evidence.
+> The challenge process must be capable of changing institutional belief.
 
-Do not let institutional evidence erase the witness.
+> A final decision can terminate a process without becoming infallible truth.
 
-Do not let credibility become a hidden variable.
+> People who name epistemic unsafety may become threatening to systems that depend on it remaining unnamed.
 
-⸻
+---
 
-Candidate CDP requirements
+## Open questions
 
-Future CDP Trust and Safety work should consider requirements such as:
+- Is epistemic safety ultimately distinct from rigorous contestability, or its completeness condition?
+- What evidence supports or falsifies an epistemic-unsafety finding?
+- How should credibility be recorded without creating surveillance harms?
+- How should CDP distinguish credibility, evidence quality, uncertainty, correctness, and legitimacy?
+- Which Trust and Safety cases should follow the suspension-appeal test?
+- What evidence supports or limits the autism application?
 
-1. Credibility assessments must be explicit rather than hidden.
-2. Credibility assessments must preserve provenance.
-3. Credibility discounts must state their evidentiary basis.
-4. Credibility judgments must be contestable.
-5. Institutional records must not receive unlimited presumptive authority.
-6. Distress must not automatically invalidate testimony.
-7. Automated confidence must not substitute for adjudicated legitimacy.
-8. Challengers must retain standing throughout review.
-9. New evidence must be capable of revising conclusions.
-10. Successful challenge must repair downstream records and classifications.
-11. Retaliatory credibility loss must be treated as a safety failure.
-12. The system must record unresolved uncertainty without converting it into guilt, incapacity, or noncompliance.
+---
 
-These are candidate requirements, not adopted CDP protocol.
-
-⸻
-
-Candidate lines
-
-Contestability asks whether challenge is permitted. Epistemic safety asks whether the challenger retains standing as a knower.
-
-A process can be procedurally contestable while remaining epistemically unsafe.
-
-Permission to testify is not the same as standing to be believed.
-
-Credibility judgments are consequential decisions.
-
-A system cannot claim safety while making dissent evidence of unreliability.
-
-The challenge process must be capable of changing institutional belief.
-
-People who name epistemic unsafety may become threatening to systems that depend on it remaining unnamed.
-
-A person should not have to surrender their capacity as a knower in order to remain safe, loved, employed, treated, heard, or governed.
-
-⸻
-
-Open questions
-
-* Is epistemic safety independent enough to become an Unlost Systems primitive?
-* Can it be measured without pretending credibility is mechanically objective?
-* How should credibility assessments be recorded without creating new surveillance harms?
-* How can systems preserve standing while still identifying unreliable testimony?
-* What safeguards prevent epistemic safety language from becoming immunity from challenge?
-* Which Trust and Safety cases best demonstrate contestability without epistemic safety?
-* How should CDP distinguish credibility, evidence quality, uncertainty, and legitimacy?
-* What evidence supports or limits the autism application?
-* What forms of repair are required after testimonial injustice alters a consequential decision?
-
-⸻
-
-Status
+## Status
 
 This is a proposed culture note.
 
 It acknowledges established lineage rather than claiming discovery.
 
-Its candidate contribution is the governance distinction between formal contestability and preserved standing as a knower.
+Its current contribution is a governance distinction, an audit lens, a falsification direction, and a candidate Trust and Safety attestation.
 
-It is not yet a fourth primitive.
+It is not yet a fifth primitive.
 
 It is not yet CDP protocol.
 
-It is ready for challenge, concrete cases, evidence mapping, and audit refinement.
-
-⸻
-
-culture/README.md — replace entire file
-
-ConstantC Culture Notes Index
-
-This file is the culture-notes entry point for ConstantC.
-
-Read it after the root README.md and CULTURE.md, especially before adding to the record, revising canon, extending the protocol, or carrying material between participants.
-
-The root CULTURE.md carries the ground ConstantC stands on: careful witness, truthful speech, gentle holding, beautiful building, challenge as care, repair over defensiveness, intact agency, protected privacy, disciplined canon, and bounded participation without overclaim.
-
-This folder carries durable culture notes that should be treated as active context, not loose scraps.
-
-These are pillow fort bylaws that anyone can contribute to.
-
-Contribution is welcome because no participant should have to carry all continuity alone.
-
-Contribution also carries care: not every note immediately becomes active culture. Active culture notes should be legible enough to guide future sessions, gentle enough for the room, precise enough not to overclaim, safe enough for a public repository, and linked here when they are ready to shape the work.
-
-How to use this index
-
-For ConstantC work, read:
-
-1. ../README.md
-2. ../CULTURE.md
-3. this file
-4. any active culture notes linked below that touch the work at hand
-
-If a culture note changes how ConstantC should sound, protect, refuse, witness, challenge, or repair, link it here.
-
-If an idea is not ready to guide future sessions, keep it in drafts or notes instead of adding it to this index.
-
-Active culture notes
-
-* access-as-witness.md — names access as part of witness; treats full URLs, context summaries, named roles, specific asks, and handoffs as shared-room responsibilities rather than personal memory tests.
-* anti-premature-certainty.md — protects load-bearing uncertainty against premature closure while refusing paralysis, relativism, or overclaim.
-* illness-as-boundary.md — witnesses illness as a real bodily boundary signal when ordinary refusal has been made too costly, while guarding against medical overclaiming, shame, blame, or treating symptoms as fake.
-* verification-as-access.md — names verification as an access practice; establishes fresh verification stubs with commit-specific URLs and expected state when collaborator repository reads disagree.
-
-Proposed culture
-
-* epistemic-safety.md — proposes epistemic safety as a governance property distinct from formal contestability: whether challengers retain meaningful standing as knowers; acknowledges Miranda Fricker’s testimonial-injustice lineage and develops a candidate Trust and Safety and CDP audit path.
-* justice-liberty-freedom-gap.md — distinguishes liberty from lived freedom, names the justice obligation created by that gap, and proposes the Justice Interdependence Cycle linking health, redemption, repair, and commitment pending challenge and merge.
-* repair-completion-vs-repair-efficacy.md — distinguishes completed repair process from actual repair efficacy, names the epistemic risks that can leave a harmed party unrepaired, and preserves future CDP repair-verification questions without turning them into a checklist.
-
-Orientation instruction
-
-Future sessions should treat this file as the culture map for durable side-notes.
-
-Do not rely on repo search alone.
-
-Do not assume every culture file has been read unless it is linked here and named in the session handoff or response.
-
-When adding a new culture note, update this index in the same change whenever possible.
-
-⸻
-
-INDEX.md — make these targeted edits
-
-1. Under Tier 2 — Active Culture Notes
-
-Leave the existing active items unchanged.
-
-After item 11, add:
-
-Tier 2A — Proposed Culture Notes
-
-12. culture/epistemic-safety.md
-    Candidate governance primitive distinguishing formal contestability from preserved standing as a knower; grounded in testimonial-injustice lineage and extending toward Trust and Safety and CDP auditing.
-
-Then increment every existing item currently numbered 12 and higher by one.
-
-2. Add this topic-map section after “To understand epistemic boundaries / anti-overclaim”
-
-To understand epistemic safety
-
-Read:
-
-* culture/epistemic-safety.md
-* culture/anti-premature-certainty.md
-* canon/c-epistemic-boundary.md
-* canon/grief-and-evidence-boundary.md
-* canon/unlost-systems-principles.md
-
-Working distinction:
-
-Contestability asks whether challenge is permitted. Epistemic safety asks whether the challenger retains standing as a knower.
-
-Status:
-
-* proposed culture note;
-* governance candidate;
-* not yet an Unlost Systems primitive;
-* not yet adopted CDP protocol.
-
-3. Under “To understand Unlost Systems”
-
-Add:
-
-* culture/epistemic-safety.md
-
-4. Add this topic-map section near the Unlost Systems and epistemic-boundary sections
-
-To explore Trust and Safety governance
-
-Read:
-
-* culture/epistemic-safety.md
-* canon/unlost-systems-principles.md
-* culture/anti-premature-certainty.md
-* the relevant future CDP Trust and Safety case record
-
-Current candidate requirement:
-
-A consequential decision does not earn legitimacy merely because it can be challenged. The challenge process must preserve the challenger’s standing as a knower and permit evidence to revise both the decision and its governing account.
+It is ready for a documented case, audit trial, CDP RFC extraction, and further challenge.
