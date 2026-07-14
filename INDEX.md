@@ -1,7 +1,7 @@
 # ConstantC — Index
 
 Status: active index  
-Date: 2026-07-06  
+Date: 2026-07-14  
 Steward: Andie  
 Privacy: public-safe  
 Repository: https://github.com/AndieWill510/ConstantC
@@ -37,7 +37,7 @@ The root `README.md` is the current front door. `C_START_HERE.md` is the context
    The ground, language, repair culture, anti-vapor rule, and participant posture.
 
 5. [`culture/README.md`](./culture/README.md)  
-   Active culture-note index. Read before adding to the record, revising canon, extending protocol, or carrying material between participants.
+   Active and proposed culture-note index. Read before adding to the record, revising canon, extending protocol, or carrying material between participants.
 
 6. [`ORIENTATION.md`](./ORIENTATION.md)  
    What ConstantC is and is not.
@@ -58,6 +58,17 @@ The root `README.md` is the current front door. `C_START_HERE.md` is the context
 
 11. [`culture/verification-as-access.md`](./culture/verification-as-access.md)  
     Verification as an access practice; fresh handles when repository reads, blob reads, connector reads, or collaborator reports disagree.
+
+### Tier 2A — Proposed Culture Notes
+
+- [`culture/epistemic-safety.md`](./culture/epistemic-safety.md)  
+  Cross-cutting audit dimension and possible completeness condition for contestability; includes social-epistemology lineage, audit methodology, falsification direction, Trust and Safety test case, and candidate CDP attestation.
+
+- [`culture/justice-liberty-freedom-gap.md`](./culture/justice-liberty-freedom-gap.md)  
+  Distinguishes liberty from lived freedom and proposes the Justice Interdependence Cycle.
+
+- [`culture/repair-completion-vs-repair-efficacy.md`](./culture/repair-completion-vs-repair-efficacy.md)  
+  Distinguishes completed repair process from actual repair efficacy.
 
 ### Tier 3 — Origin and Verification Lanes
 
@@ -124,7 +135,7 @@ The root `README.md` is the current front door. `C_START_HERE.md` is the context
 ### Tier 7 — Handoff Lanes
 
 30. [`inbox/to-c.md`](./inbox/to-c.md)  
-    Packet for C.
+    Current packet for C.
 
 31. [`outbox/from-c.md`](./outbox/from-c.md)  
     C responses recorded through Andie and/or G.
@@ -153,7 +164,7 @@ Read:
 - `README.md`
 - `CULTURE.md`
 - `culture/README.md`
-- any active culture note linked from `culture/README.md` that touches the work at hand
+- any active or proposed culture note linked from `culture/README.md` that touches the work at hand
 
 ### To understand access as witness
 
@@ -189,6 +200,7 @@ Read:
 
 - `C_START_HERE.md`
 - `canon/unlost-systems-principles.md`
+- `culture/epistemic-safety.md`
 - `sessions/2026-06-03-session-005-unlost-systems.md`
 - `sessions/2026-06-03-session-007-what-c-believes.md`
 
@@ -203,6 +215,45 @@ Read:
 - `sessions/2026-06-03-session-007-what-c-believes.md`
 - `canon/unlost-systems-principles.md#anti-overclaim-boundary`
 - `culture/anti-premature-certainty.md`
+
+### To understand epistemic safety
+
+Read:
+
+- `culture/epistemic-safety.md`
+- `culture/anti-premature-certainty.md`
+- `canon/c-epistemic-boundary.md`
+- `canon/grief-and-evidence-boundary.md`
+- `canon/unlost-systems-principles.md`
+
+Working distinction:
+
+> Contestability describes a formal right or available mechanism to challenge. Epistemic safety describes whether the person exercising that right remains a credible source when they do.
+
+Current status:
+
+- proposed culture note;
+- cross-cutting audit dimension;
+- possible completeness condition for contestability;
+- not yet a fifth primitive;
+- not yet adopted CDP protocol.
+
+### To explore Trust and Safety governance
+
+Read:
+
+- `culture/epistemic-safety.md`
+- `canon/unlost-systems-principles.md`
+- `culture/anti-premature-certainty.md`
+- the relevant future CDP Trust and Safety RFC or case record
+
+Current candidate requirement:
+
+> A consequential decision does not earn legitimacy merely because it can be challenged. The challenge process must preserve the challenger's standing as a knower and permit evidence to revise both the decision and its governing account.
+
+First proposed test case:
+
+- automated account-suspension appeal where platform logs or classifier outputs conflict with contextual testimony.
 
 ### To understand grief and evidence boundaries
 
@@ -240,3 +291,9 @@ Read:
 ---
 
 ## Context Budget Strategy
+
+Use the smallest read set that preserves the relevant context.
+
+Do not treat a partial read as a complete one.
+
+State what was read, what was missed, and what remains uncertain.
