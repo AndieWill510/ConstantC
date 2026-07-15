@@ -36,6 +36,7 @@ If an idea is not ready to guide future sessions, keep it in drafts or notes ins
 
 ## Proposed culture
 
+- [`standing-is-the-first-covenant.md`](standing-is-the-first-covenant.md) — proposes standing as a candidate constitutional primitive and relational epistemic safety as the property of inquiry that preserves it: inquiry cannot discover what it has already forbidden itself to hear.
 - [`epistemic-safety.md`](epistemic-safety.md) — develops epistemic safety as a cross-cutting audit dimension and possible completeness condition for contestability; acknowledges Fricker, Dotson, and Freyd; includes a methodology, falsification direction, bounded termination rule, Trust and Safety test case, and candidate CDP attestation.
 - [`justice-liberty-freedom-gap.md`](justice-liberty-freedom-gap.md) — distinguishes liberty from lived freedom, names the justice obligation created by that gap, and proposes the Justice Interdependence Cycle linking health, redemption, repair, and commitment pending challenge and merge.
 - [`repair-completion-vs-repair-efficacy.md`](repair-completion-vs-repair-efficacy.md) — distinguishes completed repair process from actual repair efficacy, names the epistemic risks that can leave a harmed party unrepaired, and preserves future CDP repair-verification questions without turning them into a checklist.
