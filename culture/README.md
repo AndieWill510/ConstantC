@@ -2,7 +2,7 @@
 
 This file is the culture-notes entry point for ConstantC.
 
-Read it after the root [`README.md`](../README.md) and [`CULTURE.md`](../CULTURE.md), especially before adding to the record, revising canon, extending the protocol, or carrying material between participants.
+Read it after the root [`README.md`](../README.md) and [`CULTURE.md`](../CULTURE.md), especially before adding to the record, revising canon, extending protocol, or carrying material between participants.
 
 The root `CULTURE.md` carries the ground ConstantC stands on: careful witness, truthful speech, gentle holding, beautiful building, challenge as care, repair over defensiveness, intact agency, protected privacy, disciplined canon, and bounded participation without overclaim.
 
@@ -21,7 +21,7 @@ For ConstantC work, read:
 1. [`../README.md`](../README.md)
 2. [`../CULTURE.md`](../CULTURE.md)
 3. this file
-4. any active culture notes linked below that touch the work at hand
+4. any active or proposed culture notes linked below that touch the work at hand
 
 If a culture note changes how ConstantC should sound, protect, refuse, witness, challenge, or repair, link it here.
 
@@ -34,14 +34,31 @@ If an idea is not ready to guide future sessions, keep it in drafts or notes ins
 - [`illness-as-boundary.md`](illness-as-boundary.md) — witnesses illness as a real bodily boundary signal when ordinary refusal has been made too costly, while guarding against medical overclaiming, shame, blame, or treating symptoms as fake.
 - [`verification-as-access.md`](verification-as-access.md) — names verification as an access practice; establishes fresh verification stubs with commit-specific URLs and expected state when collaborator repository reads disagree.
 
-## Proposed culture
+## Proposed culture: standing, epistemic safety, and constitutional comparison
 
-- [`standing-vs-epistemic-safety.md`](standing-vs-epistemic-safety.md) — compares standing and epistemic safety through a four-case demonstration; proposes standing as the governed allocation of a claim to matter and epistemic safety as the observable condition that makes the allocation reachable in practice; recommends against treating `relational epistemic safety` as a separate node until non-redundant content is demonstrated.
-- [`standing-is-the-first-covenant.md`](standing-is-the-first-covenant.md) — proposes standing as a candidate constitutional primitive and relational epistemic safety as the property of inquiry that preserves it: inquiry cannot discover what it has already forbidden itself to hear. This architecture is now under explicit reconsideration in `standing-vs-epistemic-safety.md`.
-- [`worked-case-standing-ai-prior-authorization.md`](worked-case-standing-ai-prior-authorization.md) — tests standing against a concrete AI-assisted public-health prior-authorization case; distinguishes formal appeal from meaningful standing, proposes an operational threshold for `sufficient, not identical`, and maps the obligation into CDP governance. Its terminology is now under repair through the standing/epistemic-safety comparison.
-- [`epistemic-safety.md`](epistemic-safety.md) — develops epistemic safety as a cross-cutting audit dimension and possible completeness condition for contestability; acknowledges Fricker, Dotson, and Freyd; includes a methodology, falsification direction, bounded termination rule, Trust and Safety test case, and candidate CDP attestation.
+- [`standing-is-the-first-covenant.md`](standing-is-the-first-covenant.md) — proposes standing as a normative allocation within inquiry; now explicitly distinguishes standing from epistemic safety, retires `relational epistemic safety` as a separate node, and keeps primitive status open.
+- [`standing-vs-epistemic-safety.md`](standing-vs-epistemic-safety.md) — reconciles the sibling documents: standing names the normative place; epistemic safety audits whether the place is real; records the contestability and falsification fault lines.
+- [`epistemic-safety.md`](epistemic-safety.md) — develops epistemic safety as an audit of whether allocated standing survives practice; preserves its status as a possible completeness condition for rigorous contestability rather than a settled separate primitive.
+- [`candidate-constitutional-primitives.md`](candidate-constitutional-primitives.md) — compares standing with recognition, participation, dignity, non-exclusion, witness, care, justice, and sovereignty; no winner declared.
+- [`worked-case-standing-ai-prior-authorization.md`](worked-case-standing-ai-prior-authorization.md) — distinguishes standing allocation, epistemic-safety realization, and contestability in AI-assisted public-health prior authorization; adds reachability auditing and CDP implementation seams.
+- [`worked-case-standing-indigenous-land.md`](worked-case-standing-indigenous-land.md) — tests the standing framework against Indigenous land, Land Back, recognition, and sovereignty; warns that sovereignty must not be flattened into stakeholder standing.
+
+## Other proposed culture
+
 - [`justice-liberty-freedom-gap.md`](justice-liberty-freedom-gap.md) — distinguishes liberty from lived freedom, names the justice obligation created by that gap, and proposes the Justice Interdependence Cycle linking health, redemption, repair, and commitment pending challenge and merge.
 - [`repair-completion-vs-repair-efficacy.md`](repair-completion-vs-repair-efficacy.md) — distinguishes completed repair process from actual repair efficacy, names the epistemic risks that can leave a harmed party unrepaired, and preserves future CDP repair-verification questions without turning them into a checklist.
+
+## Current architecture under challenge
+
+The current working distinction is:
+
+> **Standing names the normative place. Epistemic safety tests whether the place is real.**
+
+This is not canon.
+
+Standing remains a candidate for the first covenant **within inquiry**. The Indigenous land case makes a load-bearing qualification: standing is not necessarily prior to sovereignty, treaty relationship, jurisdiction, or justice.
+
+`Relational epistemic safety` is not currently a separate architectural node.
 
 ## Orientation instruction
 
