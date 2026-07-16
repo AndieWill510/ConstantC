@@ -2,37 +2,26 @@
 
 Status: Proposed comparative design memorandum  
 Date: 2026-07-15  
+Last revised: 2026-07-15  
 Steward: Andie  
 Room: ConstantC  
-Confidence: Demonstrated conceptual distinction; primitive status remains open  
-Related files: `culture/standing-is-the-first-covenant.md`, `culture/epistemic-safety.md`, `culture/worked-case-standing-ai-prior-authorization.md`, `culture/anti-premature-certainty.md`, `canon/unlost-systems-principles.md`, `canon/c-epistemic-boundary.md`
+Confidence: Useful allocation/realization distinction; primitive status remains open  
+Related files: `culture/standing-is-the-first-covenant.md`, `culture/epistemic-safety.md`, `culture/worked-case-standing-ai-prior-authorization.md`, `culture/candidate-constitutional-primitives.md`, `culture/worked-case-standing-indigenous-land.md`, `culture/anti-premature-certainty.md`, `canon/unlost-systems-principles.md`, `canon/c-epistemic-boundary.md`
 
 ---
 
 ## Why this memorandum exists
 
-ConstantC currently contains two proposed culture notes that use closely overlapping language.
+ConstantC used `standing` in two senses:
 
-`culture/standing-is-the-first-covenant.md` proposes standing as a candidate constitutional primitive and describes epistemic safety as a property of inquiry that preserves standing.
+1. the normative allocation that a participant is entitled to matter within a defined domain;
+2. the practical effectiveness of that participation in changing the account.
 
-`culture/epistemic-safety.md` defines epistemic safety as whether a challenger retains meaningful standing as a knower and explicitly leaves open whether epistemic safety is independent of rigorous contestability or instead a completeness condition for it.
+`culture/epistemic-safety.md` already performed much of the second job.
 
-Those positions cannot simply sit beside one another without reconciliation.
+This memorandum separates the terms, tests the separation, and records what remains unearned.
 
-The problem is not only terminological.
-
-The standing article uses `standing` in two different senses:
-
-1. a participant's recognized claim to contribute within a defined domain; and
-2. the practical effectiveness of that contribution in changing the institutional account.
-
-The epistemic-safety note already performs much of the second job.
-
-This memorandum separates the two concepts, tests the separation against concrete cases, and states what would falsify it.
-
-The goal is not to protect either term.
-
-The goal is to reduce schema drift.
+The goal is schema repair, not vocabulary preservation.
 
 ---
 
@@ -40,371 +29,230 @@ The goal is to reduce schema drift.
 
 ### Standing
 
-> **Standing is the governed recognition that a participant has a relevant domain of contribution which the inquiry is obligated to receive, evaluate, and answer through accountable standards.**
+> **Standing is the governed recognition that a participant is entitled to matter within a defined domain of inquiry.**
 
-Standing answers:
+Standing is normative.
 
-- Who is a participant for this decision?
-- In what domain is that participant's contribution relevant?
-- Through what mechanism may the contribution enter the record?
-- Who may accept, limit, or reject it?
-- What reasons must be given?
+It allocates a claim upon the inquiry before correctness, credibility, or outcome are adjudicated.
 
-Standing is normative and constitutional.
+It answers:
 
-It allocates a claim upon the inquiry.
+- Who is a participant?
+- In what domain is that participant relevant?
+- What may the participant contribute?
+- Through what path does the contribution enter?
+- Who may reject or limit it, under what standard, and with what review?
 
-It does not guarantee that the claim will prevail.
-
-It does not guarantee equal authority, equal credibility, equal responsibility, or equal evidentiary weight.
-
-It requires that a contribution be considered within the domain where the participant is entitled to matter.
+Standing is not equal authority, equal credibility, personhood, or guaranteed success.
 
 ### Epistemic safety
 
-> **Epistemic safety is the observable condition in which a participant's standing is honored in practice rather than defeated by patterned credibility discount, inaccessible procedure, retaliation, category error, or institutional self-protection.**
+> **Epistemic safety is the observable condition in which allocated standing is honored in practice rather than defeated by patterned credibility discount, inaccessible procedure, retaliation, category error, or institutional self-protection.**
 
-Epistemic safety answers:
+Epistemic safety is empirical and auditable.
 
-- Was the participant's contribution actually understood?
-- Was it weighed by accountable evidentiary standards?
-- Did source identity, distress, disability, fluency, status, disagreement, or institutional inconvenience distort credibility?
-- Could materially relevant evidence revise the controlling account?
-- Were credibility judgments recorded and reviewable?
-- Did successful challenge repair both outcome and record?
-
-Epistemic safety is empirical, procedural, and auditable.
-
-It tests whether allocated standing survives contact with the system.
+It asks whether the participant was actually understood, weighed through accountable standards, protected from irrelevant categorical discount, able to use a reachable revision path, and capable of repairing outcome and record after successful challenge.
 
 ---
 
-## The core distinction
+## The narrower thesis
 
-Standing is the **recognized claim to matter**.
+The comparison does not yet prove two independent primitives.
 
-Epistemic safety is the **condition under which that claim can matter without being structurally defeated**.
+It supports a smaller claim:
 
-Standing is de jure.
+> **Standing states a normative allocation. Epistemic safety audits its realization.**
 
-Epistemic safety is de facto.
+This is a de jure/de facto distinction.
 
-Standing allocates a place in the inquiry.
+That shape is generic to governance and does not by itself earn standing constitutional primacy.
 
-Epistemic safety tests whether the place is real.
+The reason to retain standing is not that it supplies a new diagnostic mechanism. Its strongest candidate contribution is normative:
 
-This distinction corrects an equivocation in the earlier standing article.
+> Standing names why exclusion is wrong before an audit demonstrates patterned harm.
 
-The question:
-
-> Can this participant's contribution meaningfully change the shared account?
-
-is not, by itself, the definition of standing.
-
-It is a combined test.
-
-First, the participant must have standing in a relevant domain.
-
-Second, the system must be epistemically safe enough for that standing to operate.
-
-A participant can possess formal standing while being prevented from exercising it effectively.
-
-That is the central demonstration.
+Whether `standing` is the necessary or best name for that normative layer remains under comparison with recognition, dignity, participation, non-exclusion, witness, care, justice, and sovereignty.
 
 ---
 
-## Four-case demonstration
+## Four cases
 
-### Case 1: Standing present, epistemic safety present
+### Case 1: standing allocated, epistemic safety present
 
-A beneficiary has standing to contribute lived effects, chronology, functional impairment, preferences, consent, and corrections to how her account is represented.
+The participant has a defined domain, accessible entry path, revision condition, accountable rejecting authority, review path, and evidence that materially similar participants can reach the path in practice.
 
-The system:
+A claim may still fail. The participant remains meaningful.
 
-- provides an accessible submission path;
-- records her account accurately;
-- distinguishes lived testimony from clinical evidence without dismissing either;
-- documents any credibility discount;
-- permits review of that discount;
-- allows materially relevant clarification or evidence to change the decision;
-- repairs the outcome and downstream record after a successful challenge.
+### Case 2: standing allocated, epistemic safety absent
 
-The beneficiary has standing.
+Policy recognizes the participant's contribution, but actual practice discounts it through disability, distress, language, fluency, hierarchy, source status, or institutional convenience.
 
-The process is epistemically safer.
+The participant has a place on paper. The place is functionally useless.
 
-Her contribution may still be rejected, but the rejection follows accountable standards rather than categorical discount.
+This case demonstrates a policy/practice gap. It does not alone establish standing as a new primitive.
 
-### Case 2: Standing present, epistemic safety absent
+### Case 3: standing absent
 
-The same beneficiary is formally recognized as a participant.
+The participant is not recognized as a relevant source in a domain where their contribution should matter.
 
-Policy says her lived account is relevant.
+The repaired prior-authorization case now uses a harder version: a broad appeal process accepts the beneficiary's submission, but the participant-role rule declares her account incapable of independently revising the controlling record.
 
-An appeal mechanism exists.
+This is not merely a missing upload field.
 
-Her testimony enters the record.
+It is a normative allocation that makes her contribution advisory by definition.
 
-Yet reviewers systematically treat autistic communication, visible distress, nonlinear narrative, or unfamiliar language as evidence of unreliability. Her contribution is administratively present but practically incapable of altering institutional belief.
+The live falsification path remains:
 
-Standing exists on paper.
+> If every such case is fully repairable by adding a missing evidence-category or participant-role clause to a complete definition of contestability, standing collapses into contestability rather than standing above it.
 
-Epistemic safety fails in operation.
+### Case 4: standing legitimately limited
 
-This is the pattern demonstrated by the AI-assisted prior-authorization worked case.
+Participation may be narrowed after fabrication, harassment, harmful relitigation, or other bounded reasons.
 
-It proves that standing and epistemic safety are not identical.
-
-### Case 3: Standing absent
-
-A beneficiary is not recognized as a relevant source concerning her own lived effects, chronology, preferences, or representational errors.
-
-Only institutional records and clinician submissions are accepted as sources capable of changing the account.
-
-There may be no hostility, retaliation, or discriminatory credibility weighting because the beneficiary's testimony is excluded before weighting begins.
-
-This is a standing failure.
-
-It is also epistemically unsafe from the beneficiary's perspective, but the primary defect is prior: the inquiry never allocated her a domain in which she could matter.
-
-Epistemic-safety auditing alone may detect the exclusion by asking who is permitted to introduce evidence. But the normative reason the exclusion is wrong comes from standing.
-
-### Case 4: Standing limited legitimately
-
-A participant has standing in a defined domain but fabricates evidence, harasses others, repeats a finally adjudicated claim without material new information, or attempts to use procedure to impose unacceptable harm.
-
-The system narrows a channel or claim after:
-
-- stating the conduct or evidentiary failure;
-- defining the scope and duration of the limitation;
-- considering less restrictive measures;
-- preserving a review path proportionate to the stakes;
-- distinguishing closure from permanent ownership of truth.
-
-Standing is limited through governed adjudication.
+The limitation must record scope, rationale, adjudicator, less restrictive alternatives, review, reopening, and protection of others.
 
 Epistemic safety does not require infinite participation.
 
-It requires that withdrawal itself be accountable and not controlled through an unreviewable self-protective loop.
+---
+
+## Methodological requirement
+
+Standing-allocation and epistemic-safety failures may be observationally identical in outcome data.
+
+They can be distinguished only by independently examining:
+
+- policy and participant-role definitions;
+- accepted evidence categories;
+- actual credibility rationales;
+- process traces;
+- and outcome patterns.
+
+A complete audit must therefore keep normative allocation evidence separate from realization evidence.
 
 ---
 
-## Logical relationship
+## Reachability
 
-The four cases support the following relationship:
+A system does not preserve meaningful standing merely by naming:
 
-1. **Standing and epistemic safety are not identical.**  
-   Formal or allocated standing can exist while epistemic safety fails.
-
-2. **Standing is necessary but not sufficient for epistemic safety with respect to a participant.**  
-   A participant cannot retain meaningful standing as a knower in practice if no standing was allocated in the first place.
-
-3. **Epistemic safety is the realization and audit condition of standing.**  
-   It tests whether the governed allocation survives actual procedure, interpretation, credibility assessment, challenge, and repair.
-
-4. **Epistemic safety may remain a completeness condition for rigorous contestability.**  
-   This memorandum does not overrule the hedge in `culture/epistemic-safety.md`.
-
-5. **Standing may still be a constitutional primitive even if epistemic safety is not an independent operational primitive.**  
-   A constitutional primitive can state what a system owes before an audit property determines whether the obligation is being honored.
-
-The current best architecture is therefore:
-
-> **Standing states the obligation. Epistemic safety tests whether the obligation is real.**
-
----
-
-## What `relational` adds
-
-At present, `relational epistemic safety` does not have demonstrated operational content distinct from `epistemic safety` as already defined in ConstantC.
-
-Both terms ask whether participants retain meaningful standing as knowers and whether the inquiry remains capable of changing through their contributions.
-
-Adding `relational` may emphasize that knowledge emerges through interactions among participants, records, institutions, and systems.
-
-Emphasis is not yet a distinct governance property.
-
-Until a case demonstrates a failure that epistemic safety cannot name without the relational modifier, ConstantC should not treat relational epistemic safety as a separate architectural node.
-
-The narrower recommendation is:
-
-- retain **epistemic safety** as the audit condition;
-- describe it as inherently relational where useful;
-- do not list **relational epistemic safety** as a separate settled property;
-- reopen the distinction only when a non-redundant case appears.
-
-This is not a rejection of the phrase.
-
-It is refusal to make vocabulary outrun demonstrated structure.
-
----
-
-## The prior-authorization case, corrected
-
-The worked case currently says that Appeal A lacks sufficient standing because her testimony cannot meaningfully change the account.
-
-Under the clarified architecture, the case should be described more precisely.
-
-The beneficiary has **allocated standing** if policy recognizes her as a relevant contributor concerning lived effects, chronology, functional impairment, consent, and representational error.
-
-The system lacks **epistemic safety** if patterned credibility discounts make that standing unreachable in practice.
-
-If policy does not recognize her contribution as relevant at all, the failure is standing.
-
-If policy recognizes it but the process structurally discounts it, the failure is epistemic safety.
-
-If both occur, both fail.
-
-This distinction makes the case more useful because it locates the repair:
-
-- standing failures require role and domain allocation;
-- epistemic-safety failures require evidence-weighting, accessibility, review, counterfactual testing, anti-retaliation, and record-repair controls.
-
----
-
-## Reachability: the operational threshold
-
-A system does not preserve sufficient standing merely by naming:
-
-- a participant domain;
-- an entry mechanism;
+- a domain;
+- an entry path;
 - a revision condition;
 - and a rejecting authority.
 
-Those conditions may be formally present yet structurally unreachable.
+The path must be reachable.
 
-A complete test must therefore add **reachability**.
+For every participant, record:
 
-For every participant, the system should identify:
+1. domain;
+2. entry;
+3. revision condition;
+4. rejecting authority and reasons;
+5. review and reopening;
+6. reachability evidence.
 
-1. **Domain** — what the participant is entitled to contribute.
-2. **Entry** — how the contribution enters the record accessibly.
-3. **Revision condition** — what kind of contribution could alter the account.
-4. **Rejecting authority** — who may reject it and under what standard.
-5. **Reachability evidence** — whether materially similar participants can actually satisfy the revision condition in practice.
+Reachability evidence includes sampled decisions, actual credibility rationales, reversal and abandonment rates, materially similar counterfactual cases, accommodation effectiveness, and downstream record repair.
 
-Reachability must be tested through outcomes and process traces, not policy text alone.
-
-A credible audit should include:
-
-- decision-record sampling;
-- actual credibility rationales;
-- reversal rates by challenger and source type;
-- abandonment and delay rates;
-- counterfactual comparison of materially similar cases;
-- analysis of disability, distress, language, fluency, hierarchy, and status effects;
-- review of whether successful challenges repair downstream records;
-- qualitative examination of whether testimony was understood before rejection.
-
-The checkable formulation becomes:
-
-> **Standing is allocated when a relevant domain, accessible entry path, revision condition, and accountable rejecting authority are defined. Epistemic safety is present only when those paths are reachable in practice without patterned, irrelevant credibility discount.**
+A door with an impossible threshold is a painted door.
 
 ---
 
-## Boundary allocation is itself contestable
+## Contestability remains an open fault line
 
-The question of who draws each participant's domain cannot remain outside governance.
+Epistemic safety may remain a completeness condition for rigorous contestability rather than an independent primitive.
 
-Domain allocation is itself a consequential decision about standing.
+Standing may also weaken into a participant-role and evidence-category clause within contestability if no distinct case survives.
 
-A CDP implementation should therefore treat the participant-role map as part of the proposed decision structure and permit challenge to:
+The inquiry should not force separation for architectural elegance.
+
+Nor should it merge terms merely to reduce discomfort.
+
+---
+
+## `Relational epistemic safety`
+
+No distinct operational content has been demonstrated for the modifier `relational`.
+
+The phrase may describe the ordinary relational character of knowledge-making, but it does not presently name a separate obligation, measure, or failure case.
+
+ConstantC should therefore:
+
+- retain `epistemic safety` as the proposed audit condition;
+- use `relational` descriptively where helpful;
+- and not allocate a separate architecture node unless a non-redundant case appears.
+
+Beautiful language does not receive a free schema slot.
+
+---
+
+## Domain allocation is contestable
+
+The participant-role map is itself a consequential decision.
+
+CDP should permit challenge to:
 
 - omitted participants;
 - domains drawn too narrowly;
-- domains drawn so broadly that they erase responsibility or expertise;
-- inaccessible entry mechanisms;
+- domains drawn so broadly that responsibility or expertise disappears;
+- inaccessible entry paths;
 - impossible revision conditions;
-- conflicts of interest in the rejecting authority.
+- and conflicts in the rejecting authority.
 
-Standing determination should be folded into CDP's existing **Adjudicate** step rather than creating a separate standing tribunal.
+Standing determination belongs within **Adjudicate**, not in a separate infinite tribunal.
 
-The adjudicator should record:
-
-- participant identity or role;
-- relevant domain;
-- evidence or testimony permitted;
-- authority scope;
-- any limitation of standing;
-- reasons for that limitation;
-- review and reopening conditions.
-
-This avoids adding an infinite regress while making standing allocation visible and contestable.
+For consequential cases, independent-review triggers and seriousness thresholds should be established by prior rule or a differently situated authority.
 
 ---
 
-## Falsification criteria
+## Falsification
 
-### The standing distinction should weaken or fail if:
+### Standing should weaken or fail as a distinct primitive if:
 
-- no case can be found where formal standing exists while epistemic safety fails;
-- all apparent standing failures can be fully described and repaired without reference to participant role, domain, or entitlement to consideration;
-- allocating standing adds no governance obligation beyond those already supplied by contestability, evidence rules, and procedural access;
-- the concept cannot distinguish legitimate role boundaries from exclusion without relying on the same ungoverned gatekeeping it criticizes.
+- every allocation failure is fully describable and repairable within rigorous contestability;
+- no standing-absent case survives where all relevant evidence categories are formally invited and epistemic-safety practice is otherwise adequate;
+- a rival normative primitive grounds the same obligations more precisely;
+- or standing cannot be bounded without reproducing arbitrary gatekeeping.
 
-The prior-authorization case currently defeats the first condition: formal standing can exist while epistemic safety fails.
+### Epistemic-safety claims should weaken when:
 
-The remaining conditions are still open.
+- credibility follows documented evidence quality rather than source status;
+- paths are reachable across materially similar participants;
+- credibility rationales are reviewable;
+- no patterned discount remains after relevant differences are controlled;
+- and successful challenges repair outcomes and records.
 
-### The epistemic-safety distinction should weaken or fail if:
+### The relational modifier should remain retired unless:
 
-- policy-level standing allocation reliably predicts actual treatment across materially similar cases;
-- credibility is assessed by documented evidence quality rather than source status;
-- revision paths are reachable across challenger types;
-- credibility rationales are recorded and reviewable;
-- no patterned discount appears after relevant case differences are controlled;
-- successful challenges reliably repair outcomes and downstream records.
+- a distinct obligation, audit measure, or failure case cannot be stated without it.
 
-If those conditions hold, a claim of epistemic unsafety should weaken.
+---
 
-### The `relational` modifier should be retired if:
+## Repairs completed
 
-- every claimed relational failure is fully captured by existing epistemic-safety questions;
-- no distinct audit measure, obligation, or failure case can be stated;
-- the term adds resonance but not operational discrimination.
+The comparison previously listed repairs as pending.
 
-That is the current working verdict.
+They are now executed:
+
+- `culture/standing-is-the-first-covenant.md` defines standing normatively and removes relational epistemic safety as a separate node;
+- `culture/worked-case-standing-ai-prior-authorization.md` distinguishes allocation, realization, and contestability and imports reachability auditing;
+- `culture/epistemic-safety.md` links this comparison and preserves its hedge about contestability;
+- standing determination is placed inside CDP Adjudicate;
+- and the rival-primitives comparison is now explicit in `culture/candidate-constitutional-primitives.md`.
+
+The Indigenous land case adds a further limit: standing may be first within inquiry without being prior to sovereignty, treaty relationship, jurisdiction, or justice.
 
 ---
 
 ## Current verdict
 
-The comparison supports a real distinction:
+The allocation/realization distinction survives.
 
-> **Standing is the governed recognition that a participant is entitled to matter within a defined domain. Epistemic safety is the observable condition in which that entitlement is honored in practice.**
+The primitive claim does not yet.
 
-Standing is therefore not identical to epistemic safety.
+> **Standing names the normative place. Epistemic safety tests whether the place is real.**
 
-Standing can exist formally while epistemic safety fails.
+The next constitutional question is not whether the distinction exists.
 
-Epistemic safety presupposes standing but adds reachability, credibility discipline, reviewability, anti-retaliation, and repair.
+It is whether standing is the necessary axiom, one workable axiom among several, or the inquiry-specific expression of a deeper principle such as recognition, justice, or non-domination.
 
-The Medicare prior-authorization case demonstrates that distinction.
-
-It does not yet prove that standing is the primitive above all others.
-
-It proves something narrower and load-bearing:
-
-> A system can recognize a participant's place in inquiry while making that place functionally useless.
-
-Standing names the place.
-
-Epistemic safety tests whether the door to it is real.
-
----
-
-## Required repairs to sibling documents
-
-If this memorandum survives challenge, ConstantC should make the following repairs:
-
-1. Revise `culture/standing-is-the-first-covenant.md` so that standing is not defined by practical efficacy and `relational epistemic safety` is not presented as a settled separate node.
-2. Revise `culture/worked-case-standing-ai-prior-authorization.md` to distinguish allocated standing from failed epistemic safety and import the reachability audit.
-3. Revise `culture/epistemic-safety.md` to link this comparison while preserving its current hedge about independence from rigorous contestability.
-4. Carry standing determination into a future CDP RFC as part of Adjudicate rather than adding a new lifecycle stage.
-5. Keep all three documents proposed until C and Andie challenge this architecture.
-
-Do not merge the terms merely to reduce discomfort.
-
-Do not separate them merely to preserve a beautiful primitive.
-
-Keep only the distinction the cases can demonstrate.
+Do not canonize the bridge before the alternatives receive a fair hearing.
