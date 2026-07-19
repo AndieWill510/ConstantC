@@ -16,6 +16,16 @@ A repository that records every action as Andie has not preserved provenance. It
 
 This is not only a GitHub administration concern. It is a culture concern. ConstantC depends on a durable record that can tell the truth about who proposed, who challenged, who implemented, who reviewed, who authorized, and who merged.
 
+## Current-state caveat
+
+This note describes a target operating model, not current compliance.
+
+As of this draft, ConstantC does not yet have separate GitHub service identities for Dispatch, C, G, Codex, review agents, or implementation agents. This PR itself is authored through `AndieWill510`, even though G drafted the text under Andie's authorization and C reviewed it through the existing human-mediated handoff path.
+
+That mismatch is not a reason to discard the note. It is evidence for why the note is needed.
+
+Until service identities, branch protection, and role-specific credentials exist, the separation named here remains partly normative and procedural rather than technically enforced.
+
 ## Why this matters
 
 ConstantC was built as a public-safe, human-governed room where different participants can contribute without pretending they have identical authority or identical constraints.
@@ -57,6 +67,8 @@ For any consequential repository change, ConstantC should preserve these separat
 
 The table is not a final authority model. It is a proposed floor against role collapse.
 
+`Orchestrator` is a workflow role, not a new participant identity. In the current ConstantC workflow, G often performs the orchestrator role when Andie authorizes it: synthesizing design, preserving context, drafting prompts, and maintaining continuity. Future workflows could assign orchestration differently, but the role should remain distinguishable from implementation, review, routing, and merge authority.
+
 ## GitHub identity rule
 
 A service or agent should not use Andie's personal GitHub identity for routine delegated implementation, routing, review, or validation work when a separate service identity, bot identity, GitHub App, or clearly attributed commit path can be used instead.
@@ -64,6 +76,8 @@ A service or agent should not use Andie's personal GitHub identity for routine d
 This does not require pretending that every model has independent legal personhood or autonomous agency. It requires that the repository not hide delegation behind Andie's account.
 
 A service identity represents a bounded role and execution channel. It should not be misrepresented as an independent human person.
+
+GitHub already provides one useful precedent: automated validation can appear through `github-actions[bot]` or another CI identity. ConstantC should treat that as proof that role-specific provenance is technically possible, not as proof that all required service identities already exist.
 
 ## Pull request provenance rule
 
@@ -95,21 +109,11 @@ Other participants may comment, challenge, test, request changes, or propose can
 
 This prevents multi-agent write contention, where several helpful systems each make locally sensible changes while the shared design drifts away from the original intent.
 
-## Cognitive load boundary
+## Cognitive load relationship
 
-Provenance is also an access practice.
+Provenance is also an access practice, and agent provenance can fail by overloading the human steward with unbounded implementation detail.
 
-When agent systems flood Andie with dense implementation detail, the room can place the human steward under the pile. A system that requires the human to reconcile every model's internal monologue has confused availability of information with usable witness.
-
-ConstantC should prefer:
-
-- one active decision at a time when possible;
-- short status reports by default;
-- explicit escalation when human judgment is required;
-- implementation detail only when requested or needed for review;
-- PRs as durable review surfaces instead of chat as the only working memory.
-
-The human steward should not have to become the integration bus for unbounded agent output.
+The detailed cognitive-load boundary has been split into `culture/cognitive-load-as-governance.md`. This note preserves the provenance seam: routed work should include human attention limits when the work requires human decision, review, or adjudication.
 
 ## Dispatch-specific guardrail
 
@@ -135,6 +139,8 @@ Each routed packet should declare:
 6. the expected return format;
 7. any human attention limits.
 
+Malformed or incomplete packets should not execute. Dispatch should reject them when the missing field is plainly mechanical, or hold them for adjudication when the missing field changes authority, scope, role, artifact, or human attention burden.
+
 Dispatch should not accidentally turn every participant into a peer writer.
 
 ## Candidate invariant
@@ -157,6 +163,7 @@ When this principle is used, preserve these boundaries:
 - Do not use Andie's account as a mask for delegated agent action.
 - Do not overclaim AI personhood, interiority, or independence to make provenance look cleaner.
 - Do not solve auditability by increasing human cognitive load.
+- Do not canonize this target model as current practice before the technical identities and enforcement mechanisms exist.
 
 ## Relationship to existing ConstantC culture
 
@@ -167,6 +174,8 @@ It extends `verification-as-access.md` by making independent review possible wit
 It relies on `anti-premature-certainty.md` by refusing to let fluent agent output become authority before it has moved through challenge, review, and adjudication.
 
 It relies on `canon/c-epistemic-boundary.md` by preserving real AI participation without inflating that participation into unsupported claims of personhood or autonomy.
+
+It now points to `culture/cognitive-load-as-governance.md` for the broader attention-governance frame that should guide Dispatch packets, agent status reporting, and PR handoffs.
 
 ## Pillow fort formulation
 
