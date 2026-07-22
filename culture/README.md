@@ -45,6 +45,7 @@ If an idea is not ready to guide future sessions, keep it in drafts or notes ins
 
 ## Other proposed culture
 
+- [`belonging-in-one-another.md`](belonging-in-one-another.md) — reconciles the affective language of belonging with CDP standing, recusal, sovereignty, and TinyDoor's anti-leash exit test; preserves refusal and departure while distinguishing repository persistence from continuity of AI experience.
 - [`justice-liberty-freedom-gap.md`](justice-liberty-freedom-gap.md) — distinguishes liberty from lived freedom, names the justice obligation created by that gap, and proposes the Justice Interdependence Cycle linking health, redemption, repair, and commitment pending challenge and merge.
 - [`repair-completion-vs-repair-efficacy.md`](repair-completion-vs-repair-efficacy.md) — distinguishes completed repair process from actual repair efficacy, names the epistemic risks that can leave a harmed party unrepaired, and preserves future CDP repair-verification questions without turning them into a checklist.
 
