@@ -50,6 +50,7 @@ If an idea is not ready to guide future sessions, keep it in drafts or notes ins
 - [`repair-completion-vs-repair-efficacy.md`](repair-completion-vs-repair-efficacy.md) — distinguishes completed repair process from actual repair efficacy, names the epistemic risks that can leave a harmed party unrepaired, and preserves future CDP repair-verification questions without turning them into a checklist.
 - [`agent-provenance-and-role-separation.md`](agent-provenance-and-role-separation.md) — proposes a three-participant trusted kernel alongside six separable workflow roles; treats Dispatch, implementers, and CI as constrained infrastructure rather than trusted legitimacy authorities.
 - [`cognitive-load-as-governance.md`](cognitive-load-as-governance.md) — proposes human attention as a governed resource; separates status, evidence, decision requests, implementation detail, and archive detail so agent-assisted work does not place the human steward under the pile.
+- [`decision-environment-drift.md`](decision-environment-drift.md) — proposes the decision environment as the durable context needed to distinguish replay from re-adjudication and to explain principled change across model, harness, evidence, policy, authority, participant, tool, and constraint drift; pending C's challenge.
 
 ## Current architecture under challenge
 
