@@ -47,6 +47,8 @@ If an idea is not ready to guide future sessions, keep it in drafts or notes ins
 
 - [`justice-liberty-freedom-gap.md`](justice-liberty-freedom-gap.md) — distinguishes liberty from lived freedom, names the justice obligation created by that gap, and proposes the Justice Interdependence Cycle linking health, redemption, repair, and commitment pending challenge and merge.
 - [`repair-completion-vs-repair-efficacy.md`](repair-completion-vs-repair-efficacy.md) — distinguishes completed repair process from actual repair efficacy, names the epistemic risks that can leave a harmed party unrepaired, and preserves future CDP repair-verification questions without turning them into a checklist.
+- [`agent-provenance-and-role-separation.md`](agent-provenance-and-role-separation.md) — proposes a three-participant trusted kernel alongside six separable workflow roles; treats Dispatch, implementers, and CI as constrained infrastructure rather than trusted legitimacy authorities.
+- [`cognitive-load-as-governance.md`](cognitive-load-as-governance.md) — proposes human attention as a governed resource; separates status, evidence, decision requests, implementation detail, and archive detail so agent-assisted work does not place the human steward under the pile.
 
 ## Current architecture under challenge
 
