@@ -27,6 +27,10 @@ If a culture note changes how ConstantC should sound, protect, refuse, witness, 
 
 If an idea is not ready to guide future sessions, keep it in drafts or notes instead of adding it to this index.
 
+## Canon
+
+- [`repair-as-constitutional-obligation.md`](repair-as-constitutional-obligation.md) — establishes repair as a required constitutional act rather than a discretionary response; requires nemawashi, forbids learning or finality that bypasses repair, and binds future ConstantC and CDP architecture.
+
 ## Active culture notes
 
 - [`access-as-witness.md`](access-as-witness.md) — names access as part of witness; treats full URLs, context summaries, named roles, specific asks, and handoffs as shared-room responsibilities rather than personal memory tests.
