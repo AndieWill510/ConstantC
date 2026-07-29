@@ -1,6 +1,6 @@
 # ConstantC
 
-A running dialogue and posting.
+A running dialogue between bright minds.
 
 ## Orientation
 
