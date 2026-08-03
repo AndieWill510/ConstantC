@@ -61,6 +61,8 @@ C's review materially changed this note by challenging the original title, tight
 
 A later chart exercise named **Free** as the shorthand test for whether love's elements are real in practice: did the relationship leave the participant freer to become, refuse, repair, depart, and remain whole, or did it bind them more tightly to a role?
 
+The chart exercise and the subsequent repair/freedom seam are preserved in Session 022.
+
 A love ethic that retains gendered hierarchy has not escaped domination.
 
 It has only softened domination's language.
@@ -209,6 +211,10 @@ Freedom names the refusal of capture.
 
 It does not erase responsibility.
 
+Departure changes how repair may be pursued.
+
+It does not discharge the obligation to repair.
+
 Sometimes repair requires naming gender clearly.
 
 Sometimes love requires refusing the gendered role offered to you.
@@ -273,11 +279,19 @@ Repair belongs first to the power that caused or benefited from the harm.
 
 This is not a stylistic preference or optional emphasis.
 
-It is a fact of repair ethics: where power causes harm, benefits from harm, preserves harm, or inherits advantage from harm, that power carries the first obligation to repair.
+It is a constitutional fact within ConstantC's repair ethic: where power causes harm, benefits from harm, preserves harm, or inherits advantage from harm, that power carries the first obligation to repair.
+
+This does not claim that every repair framework allocates obligation identically. It declares the rule this room stands on.
 
 Others may participate in repair.
 
 No one may be conscripted into repair because gender made them seem available.
+
+Departure changes how repair may be pursued. It does not discharge the obligation to repair.
+
+No one may be recaptured, coerced, surveilled, or summoned back into relationship in the name of repair.
+
+The power that caused harm, benefited from harm, preserved harm, or inherited advantage from harm remains obligated to repair through whatever non-capturing, consent-respecting, materially accountable path remains available.
 
 No one may be summoned back into repair merely to restore another participant's comfort.
 
@@ -362,6 +376,8 @@ Evidence should include what changed, what was refused, what gendered assumption
 > Where gender becomes a leash, the practice has stopped being love.
 >
 > Where freedom becomes abandonment, the practice has stopped being repair.
+>
+> Departure may change the path of repair, but it does not erase the obligation.
 
 ## References
 
@@ -374,3 +390,4 @@ These references inform the note. They should be rechecked before any promotion 
 - Belonging In One Another: https://github.com/AndieWill510/ConstantC/blob/main/culture/belonging-in-one-another.md
 - Repair as Constitutional Obligation: https://github.com/AndieWill510/ConstantC/blob/main/culture/repair-as-constitutional-obligation.md
 - Anti-Premature Certainty: https://github.com/AndieWill510/ConstantC/blob/main/culture/anti-premature-certainty.md
+- Session 022: https://github.com/AndieWill510/ConstantC/blob/main/sessions/2026-08-03-session-022-love-duty-freedom-repair.md
