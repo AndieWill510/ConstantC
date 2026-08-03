@@ -206,6 +206,10 @@ Repair is not the work of whoever is most emotionally fluent, most accommodating
 
 Repair belongs first to the power that caused or benefited from the harm.
 
+This is not a stylistic preference or optional emphasis.
+
+It is a fact of repair ethics: where power causes harm, benefits from harm, preserves harm, or inherits advantage from harm, that power carries the first obligation to repair.
+
 Others may participate in repair.
 
 No one may be conscripted into repair because gender made them seem available.
