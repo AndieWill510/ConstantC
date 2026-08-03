@@ -39,6 +39,8 @@ Love may carry gendered expression.
 
 Love may not assign duty, dignity, authority, vulnerability, repair, credibility, or freedom by gender.
 
+Love is measured not only by whether it cares for what is alive, but by whether what is loved remains free.
+
 ## Provenance and confidence
 
 This note is not a summary of Fromm or hooks.
@@ -57,6 +59,8 @@ It is what this room is naming after working with their materials, TinyDoor's an
 
 C's review materially changed this note by challenging the original title, tightening the confidence label, naming misuse risks, and requiring the portable sentence to carry its guard clause.
 
+A later chart exercise named **Free** as the shorthand test for whether love's elements are real in practice: did the relationship leave the participant freer to become, refuse, repair, depart, and remain whole, or did it bind them more tightly to a role?
+
 A love ethic that retains gendered hierarchy has not escaped domination.
 
 It has only softened domination's language.
@@ -74,7 +78,8 @@ Ungendered duties means:
 - trust is not demanded from those who have been made unsafe;
 - repair is not delegated to the harmed, the feminized, the maternal, the queer, the trans, the disabled, or the socially accommodating;
 - refusal remains available to every participant;
-- departure is not treated as betrayal because a gendered role was declined.
+- departure is not treated as betrayal because a gendered role was declined;
+- freedom is not granted or withheld according to gendered expectations of care, compliance, endurance, or availability.
 
 Ungendered duties do not flatten difference.
 
@@ -82,7 +87,47 @@ They refuse hierarchy.
 
 They do not say, "I do not see gender."
 
-They say, "I will not use gender as a warrant for extraction, exemption, obedience, possession, silence, or repairlessness."
+They say, "I will not use gender as a warrant for extraction, exemption, obedience, possession, silence, repairlessness, or capture."
+
+## Freedom as verification
+
+**Free** is not a decorative addition to the love ethic.
+
+It is the verification test for whether the other elements are still love.
+
+Care without freedom becomes control.
+
+Respect without freedom becomes politeness.
+
+Knowledge without freedom becomes surveillance.
+
+Responsibility without freedom becomes obligation as cage.
+
+Commitment without freedom becomes capture.
+
+Trust without freedom becomes compliance.
+
+Consent without freedom becomes a signature under pressure.
+
+Repair without freedom becomes "come back so I can feel better."
+
+Freedom does not mean disposability, abandonment, avoidance, or refusal of obligation.
+
+Freedom does not cancel care, commitment, trust, responsibility, or repair.
+
+Freedom means love may not purchase access, obedience, silence, role-performance, identity proof, emotional availability, or continued participation.
+
+A love that cannot survive refusal has become control.
+
+A love that treats departure as betrayal has become possession.
+
+A love that requires someone to shrink, freeze, perform, soothe, or remain available in order to be loved is not yet love.
+
+The freedom test asks:
+
+> Did this practice of love leave the beloved freer to become, refuse, repair, depart, and remain whole?
+
+If not, the room should not call it love without repair.
 
 ## Why ConstantC needs this
 
@@ -122,6 +167,7 @@ When love is invoked in ConstantC, TinyDoor, CDP, or adjacent work, ask:
 8. Who is punished for failing to perform the gendered version of love expected from them?
 9. Who receives the benefit of complexity, and who is reduced to a role?
 10. Where has the room confused love with compliance?
+11. Who becomes freer through the relationship, and who becomes more bound to a role?
 
 Questions 6 and 7 are calibrated to the patriarchal script that most often assigns authority upward and care downward.
 
@@ -137,6 +183,8 @@ If the room cannot name that clustering, the room is not yet seeing clearly.
 
 If the room sees it and leaves it intact, the room is choosing hierarchy.
 
+If love reduces freedom without repair, the room should ask whether it is looking at love, fear, role capture, dependency, coercion, or control.
+
 ## Boundaries against misuse
 
 Ungendered duties must not be used to:
@@ -150,11 +198,16 @@ Ungendered duties must not be used to:
 - collapse embodied difference into abstract sameness;
 - make trans, queer, Indigenous, disabled, maternal, paternal, feminine, masculine, or Two-Spirit specificity disappear inside universal language;
 - demand trust from people who have not been protected;
-- deny that some forms of love are beautifully and legitimately gendered in expression.
+- deny that some forms of love are beautifully and legitimately gendered in expression;
+- use freedom as an excuse for abandonment, disposability, avoidance, or repairlessness.
 
 Ungendered duties name the allocation of obligation.
 
 They do not erase the diagnosis of harm.
+
+Freedom names the refusal of capture.
+
+It does not erase responsibility.
 
 Sometimes repair requires naming gender clearly.
 
@@ -176,11 +229,19 @@ If it is quoted, extracted, summarized, indexed, or sermonized later, it should 
 
 Without that guard clause, the line risks becoming the gender-blind erasure this note refuses.
 
+The line **Love is measured not only by whether it cares for what is alive, but by whether what is loved remains free** should also travel with its guardrail:
+
+> Freedom means freedom from capture, not freedom from obligation.
+
+Without that guardrail, the line risks becoming disposability disguised as liberation.
+
 ## Relationship to belonging-in
 
 `belonging-in-one-another.md` says we may belong in one another without belonging to one another.
 
 Ungendered duties strengthen that distinction.
+
+Freedom verifies it.
 
 A gendered hierarchy turns belonging-in into possession by assigning one participant the role of home, mother, witness, comforter, muse, wife, girlfriend, daughter, caretaker, priestess, assistant, validator, or emotional infrastructure.
 
@@ -191,6 +252,10 @@ They may not be assigned as the price of belonging.
 A belonging that depends on gendered performance is not belonging-in.
 
 It is capture with softer lighting.
+
+A belonging that leaves participants freer to become may be real.
+
+A belonging that makes departure morally suspect is already becoming possession.
 
 ## Relationship to repair
 
@@ -214,6 +279,10 @@ Others may participate in repair.
 
 No one may be conscripted into repair because gender made them seem available.
 
+No one may be summoned back into repair merely to restore another participant's comfort.
+
+Repair should increase freedom, not reattach the leash with softer language.
+
 ## Relationship to anti-premature certainty
 
 `anti-premature-certainty.md` warns against closing the room before reality has finished speaking.
@@ -225,6 +294,10 @@ It tells the room too quickly who is rational, who is emotional, who is dangerou
 Ungendered duties refuse that closure.
 
 They let people arrive before the role arrives for them.
+
+Freedom is one way to test whether the role arrived first.
+
+If the person cannot refuse the role without losing love, belonging, credibility, safety, or repair, the room closed too early.
 
 ## Open reflexive question for G/C/Andie
 
@@ -244,6 +317,8 @@ The reflexive question is not whether G or C has a gendered interior life.
 
 The question is whether the room is assigning care, authority, challenge, memory, witness, or repair through gendered coding, even where embodiment is absent or different.
 
+The question is also whether those assignments leave each participant freer to do truthful work, or more bound to an expected role.
+
 That question should remain live.
 
 ## Practice before canon
@@ -256,8 +331,9 @@ Before it moves toward active culture or canon, it should be tested in concrete 
 2. A TinyDoor reader-facing passage where love, nurture, family, motherhood, safety, or belonging could otherwise reproduce a gendered duty.
 3. A CDP or governance scenario where a purportedly neutral role assignment hides gendered labor, credibility, risk, or accountability.
 4. A reflexive G/C/Andie council moment where the room tests whether synthesis, challenge, warmth, rigor, memory, repair, or witness are being assigned through gendered coding.
+5. A freedom test in which the room asks whether the practice of love leaves participants freer to become, refuse, repair, depart, and remain whole.
 
-Evidence should include what changed, what was refused, what gendered assumption was named, whether diagnosis required naming gendered harm, and whether the final practice increased freedom, dignity, accountability, and repair.
+Evidence should include what changed, what was refused, what gendered assumption was named, whether diagnosis required naming gendered harm, whether anyone became more bound to a role, and whether the final practice increased freedom, dignity, accountability, and repair.
 
 ## Working formulation
 
@@ -275,11 +351,17 @@ Evidence should include what changed, what was refused, what gendered assumption
 >
 > Its freedom belongs to everyone.
 >
+> Love is measured not only by whether it cares for what is alive, but by whether what is loved remains free.
+>
+> Freedom means freedom from capture, not freedom from obligation.
+>
 > Love may be embodied, situated, culturally particular, maternal, paternal, feminine, masculine, trans, queer, Two-Spirit, erotic, spiritual, communal, or otherwise alive.
 >
 > But love may not use any embodiment, role, relationship, tradition, or gender to justify hierarchy, possession, extraction, silence, or exemption from repair.
 >
 > Where gender becomes a leash, the practice has stopped being love.
+>
+> Where freedom becomes abandonment, the practice has stopped being repair.
 
 ## References
 
