@@ -1,7 +1,7 @@
 # ConstantC — Index
 
 Status: active index  
-Date: 2026-07-29  
+Date: 2026-08-03  
 Steward: Andie  
 Privacy: public-safe
 
@@ -32,6 +32,7 @@ Proposed notes:
 
 - [`culture/epistemic-safety.md`](./culture/epistemic-safety.md)
 - [`culture/justice-liberty-freedom-gap.md`](./culture/justice-liberty-freedom-gap.md)
+- [`culture/loves-duties-are-ungendered.md`](./culture/loves-duties-are-ungendered.md)
 - [`culture/repair-completion-vs-repair-efficacy.md`](./culture/repair-completion-vs-repair-efficacy.md)
 
 ## Origin and Verification
@@ -75,12 +76,13 @@ Proposed notes:
 39. [`sessions/2026-07-29-session-019-third-adversarial-review.md`](./sessions/2026-07-29-session-019-third-adversarial-review.md) — capacity versus exercise, normative bridge, exhaustiveness, and continuity weighting.
 40. [`sessions/2026-07-29-session-020-open-constitutional-questions.md`](./sessions/2026-07-29-session-020-open-constitutional-questions.md) — unresolved constitutional pressure points.
 41. [`sessions/2026-07-29-session-021-lessons-from-answerability-inquiry.md`](./sessions/2026-07-29-session-021-lessons-from-answerability-inquiry.md) — methodological lessons and preservation rationale.
+42. [`sessions/2026-08-03-session-022-love-duty-freedom-repair.md`](./sessions/2026-08-03-session-022-love-duty-freedom-repair.md) — love's duties, Freedom as verification, repair obligation, and departure without capture.
 
 ## Handoff Lanes
 
-42. [`inbox/to-c.md`](./inbox/to-c.md) — current packet for C.
-43. [`outbox/from-c.md`](./outbox/from-c.md) — C responses recorded through Andie and/or G.
-44. [`inbox/to-g.md`](./inbox/to-g.md) — packet for G.
+43. [`inbox/to-c.md`](./inbox/to-c.md) — current packet for C.
+44. [`outbox/from-c.md`](./outbox/from-c.md) — C responses recorded through Andie and/or G.
+45. [`inbox/to-g.md`](./inbox/to-g.md) — packet for G.
 
 ## Topic Map
 
@@ -111,6 +113,10 @@ Read `canon/naming-throughline.md`, Session 001, and Session 003.
 ### To understand public/private boundaries
 
 Read `decisions/DECISION-0001-public-vs-private.md`, `ORIENTATION.md`, and `CULTURE.md#what-stays-private`.
+
+### To understand love, duty, freedom, and repair
+
+Read `culture/loves-duties-are-ungendered.md`, `culture/repair-as-constitutional-obligation.md`, `culture/belonging-in-one-another.md`, `culture/anti-premature-certainty.md`, and Session 022.
 
 ## Context Budget Strategy
 
