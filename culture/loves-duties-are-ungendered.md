@@ -391,3 +391,40 @@ These references inform the note. They should be rechecked before any promotion 
 - Repair as Constitutional Obligation: https://github.com/AndieWill510/ConstantC/blob/main/culture/repair-as-constitutional-obligation.md
 - Anti-Premature Certainty: https://github.com/AndieWill510/ConstantC/blob/main/culture/anti-premature-certainty.md
 - Session 022: https://github.com/AndieWill510/ConstantC/blob/main/sessions/2026-08-03-session-022-love-duty-freedom-repair.md
+
+## Appendix: Distortion chart
+
+This chart is a diagnostic aid for testing what a practice of love becomes when one element is present but another is missing.
+
+Read it this way: **row = what is present; column = what is missing; cell = what the practice can become.**
+
+| Have ↓ / Missing → | Care | Respect | Know | Duty | Commit | Trust | Consent | Repair | Free |
+|---|---|---|---|---|---|---|---|---|---|
+| **Care** | — | Smothering | Projection | Sentiment | Episodic comfort | Anxious tending | Control | Hugs over harm | Possession |
+| **Respect** | Polite distance | — | Shallow courtesy | Empty deference | Manners only | Guarded politeness | Decorum over agency | Civility over accountability | Decorum cage |
+| **Know** | Analysis | Objectification | — | Gossip / extraction | Curiosity tourism | Interrogation | Surveillance | Receipt hoarding | Control file |
+| **Duty** | Obligation | Paternalism | Busy harm | — | Performance | Compliance management | Coercion | Procedure without justice | Cage |
+| **Commit** | Grim loyalty | Entitlement | Fantasy bond | Romantic promise | — | Stuckness | Lock-in | Staying without change | Capture |
+| **Trust** | Exposure | Credulity | Blind trust | Unbacked confidence | Fragile faith | — | Pressure to believe | Forgiveness without change | Compliance |
+| **Consent** | Transaction | Paper consent | Uninformed consent | No follow-through | One-time permission | Legalism | — | Waiver | Signature under pressure |
+| **Repair** | Technical fix | Forced apology | Wrong repair | Apology theater | Temporary patch | Unverified promise | Recapture | — | Leash reattached |
+| **Free** | Abandonment | License | Unwitnessed wandering | Avoidance | Disposability | Isolation | Entitlement | Repairlessness | — |
+
+The most load-bearing distortions are:
+
+| Pair | Distortion |
+|---|---|
+| **Care without Free** | Possession |
+| **Commit without Free** | Capture |
+| **Repair without Free** | Leash reattached |
+| **Free without Repair** | Repairlessness |
+| **Consent without Free** | Signature under pressure |
+| **Know without Consent** | Surveillance |
+| **Duty without Care** | Obligation |
+| **Respect without Repair** | Civility over accountability |
+
+The chart is not a substitute for judgment.
+
+It is a warning system.
+
+If one element is present but its companion guardrail is missing, the practice may keep the vocabulary of love while drifting into control, capture, compliance, or repairlessness.
