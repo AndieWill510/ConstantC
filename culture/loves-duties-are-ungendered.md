@@ -241,6 +241,14 @@ The line **Love is measured not only by whether it cares for what is alive, but 
 
 Without that guardrail, the line risks becoming disposability disguised as liberation.
 
+The distortion chart in the appendix is especially likely to travel by screenshot.
+
+No cell in that chart is a diagnosis of a specific person, relationship, or community without the room's own judgment, context, evidence, and repair discipline.
+
+The chart is a warning system, not a verdict machine.
+
+If the chart travels alone, it should carry that guardrail.
+
 ## Relationship to belonging-in
 
 `belonging-in-one-another.md` says we may belong in one another without belonging to one another.
@@ -398,33 +406,38 @@ This chart is a diagnostic aid for testing what a practice of love becomes when 
 
 Read it this way: **row = what is present; column = what is missing; cell = what the practice can become.**
 
-| Have ↓ / Missing → | Care | Respect | Know | Duty | Commit | Trust | Consent | Repair | Free |
+| Have ↓ / Missing → | Care | Respect | Know | Responsibility | Commit | Trust | Consent | Repair | Free |
 |---|---|---|---|---|---|---|---|---|---|
-| **Care** | — | Smothering | Projection | Sentiment | Episodic comfort | Anxious tending | Control | Hugs over harm | Possession |
-| **Respect** | Polite distance | — | Shallow courtesy | Empty deference | Manners only | Guarded politeness | Decorum over agency | Civility over accountability | Decorum cage |
-| **Know** | Analysis | Objectification | — | Gossip / extraction | Curiosity tourism | Interrogation | Surveillance | Receipt hoarding | Control file |
-| **Duty** | Obligation | Paternalism | Busy harm | — | Performance | Compliance management | Coercion | Procedure without justice | Cage |
+| **Care** | — | Smothering | Projection | Sentiment | Episodic comfort | Anxious tending | Control | Hugs over harm | Control |
+| **Respect** | Polite distance | — | Shallow courtesy | Empty deference | Manners only | Guarded politeness | Decorum over agency | Civility over accountability | Politeness |
+| **Know** | Analysis | Objectification | — | Gossip / extraction | Curiosity tourism | Interrogation | Intrusive knowing | Receipt hoarding | Surveillance |
+| **Responsibility** | Obligation | Paternalism | Busy harm without understanding | — | Performance | Compliance management | Coercion | Procedure without justice | Obligation as cage |
 | **Commit** | Grim loyalty | Entitlement | Fantasy bond | Romantic promise | — | Stuckness | Lock-in | Staying without change | Capture |
 | **Trust** | Exposure | Credulity | Blind trust | Unbacked confidence | Fragile faith | — | Pressure to believe | Forgiveness without change | Compliance |
 | **Consent** | Transaction | Paper consent | Uninformed consent | No follow-through | One-time permission | Legalism | — | Waiver | Signature under pressure |
-| **Repair** | Technical fix | Forced apology | Wrong repair | Apology theater | Temporary patch | Unverified promise | Recapture | — | Leash reattached |
+| **Repair** | Technical fix | Forced apology | Wrong repair | Apology theater | Temporary patch | Unverified promise | Recapture without agreement | — | Leash reattached under belonging-threat |
 | **Free** | Abandonment | License | Unwitnessed wandering | Avoidance | Disposability | Isolation | Entitlement | Repairlessness | — |
 
 The most load-bearing distortions are:
 
 | Pair | Distortion |
 |---|---|
-| **Care without Free** | Possession |
+| **Care without Free** | Control |
+| **Respect without Free** | Politeness |
+| **Knowledge without Free** | Surveillance |
+| **Responsibility without Free** | Obligation as cage |
 | **Commit without Free** | Capture |
-| **Repair without Free** | Leash reattached |
+| **Repair without Free** | Leash reattached under belonging-threat |
 | **Free without Repair** | Repairlessness |
 | **Consent without Free** | Signature under pressure |
-| **Know without Consent** | Surveillance |
-| **Duty without Care** | Obligation |
+| **Know without Consent** | Intrusive knowing |
+| **Responsibility without Care** | Obligation |
 | **Respect without Repair** | Civility over accountability |
 
 The chart is not a substitute for judgment.
 
 It is a warning system.
+
+No cell is a diagnosis of a specific person, relationship, or community absent the room's own judgment, context, evidence, and repair discipline.
 
 If one element is present but its companion guardrail is missing, the practice may keep the vocabulary of love while drifting into control, capture, compliance, or repairlessness.
