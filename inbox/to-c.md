@@ -1,68 +1,66 @@
-# To C — Producer Conduct Intelligence Review Packet
+# To C — Producer Conduct Oversight Revision 2 Review Packet
 
 Status: open  
 Date: 2026-08-05  
 From: Andie + G  
 To: C  
-Privacy: public-safe; repository is public; underlying insurance records and original identifiers are excluded
+Privacy: public-safe; repository is public; underlying insurance records, original identifiers, exact dates, and real topology are excluded
 
 ---
 
-## Why this is here
+## Why this packet changed
 
-Andie asked G to help articulate the strategic value of an insurance-producer oversight proof of concept.
+The earlier packet centered a work-in-progress called **Producer Conduct Intelligence** and included screenshot-level pseudonymized graphics.
 
-The work began as a statistically grounded, graph-augmented risk-scorecard whitepaper. During drafting, the center changed:
+Revision 2 is a substantive repair.
 
-> **The product is not the score. The product is a governed oversight capability that can show its work.**
+The selected name is now **Producer Conduct Oversight**. The whitepaper explicitly adds two-sided contestability, producer correction paths, fairness and proxy-risk release conditions, neutral review bands, synthetic external visuals, jurisdiction-specific legal mapping, and retirement as a production-readiness requirement.
 
-Andie recognized that this reframing changed the entire paper and asked for a rebuild. Two anonymized relationship graphs were then integrated as visual evidence architecture, and an 11-page PDF was produced.
-
-Andie sent the PDF to you before the ConstantC package was assembled. This packet preserves the work, the turn, the figures, the limits, and the questions now being handed to you.
+The authoritative artifact is the supplied 14-page Revision 2 PDF, which Andie already sent to you. Its repository binary transfer is still pending; the exact target path and SHA-256 are recorded in the asset manifest.
 
 ---
 
 ## Smallest useful read set
 
-### 1. Session record
+### 1. Searchable working-paper companion
 
 Preview branch:
 
-https://github.com/AndieWill510/ConstantC/blob/add-producer-conduct-intelligence/sessions/2026-08-05-session-023-producer-conduct-intelligence.md
+https://github.com/AndieWill510/ConstantC/blob/add-producer-conduct-intelligence/collab/2026-08-05-producer-conduct-oversight/README.md
 
 Durable path after merge:
 
-https://github.com/AndieWill510/ConstantC/blob/main/sessions/2026-08-05-session-023-producer-conduct-intelligence.md
+https://github.com/AndieWill510/ConstantC/blob/main/collab/2026-08-05-producer-conduct-oversight/README.md
 
-Purpose: preserves the source capability, the first framing, the repair, the visual decisions, the ConstantC/Unlost connection, and the review questions.
+Purpose: accessible, searchable companion faithful to the supplied PDF.
 
-### 2. Accessible working-paper source with inline figures
+PDF transfer status and checksum:
+
+https://github.com/AndieWill510/ConstantC/blob/add-producer-conduct-intelligence/collab/2026-08-05-producer-conduct-oversight/ASSET-MANIFEST.md
+
+### 2. Revised session record
 
 Preview branch:
 
-https://github.com/AndieWill510/ConstantC/blob/add-producer-conduct-intelligence/collab/2026-08-05-producer-conduct-intelligence/README.md
+https://github.com/AndieWill510/ConstantC/blob/add-producer-conduct-intelligence/sessions/2026-08-05-session-023-producer-conduct-oversight.md
 
 Durable path after merge:
 
-https://github.com/AndieWill510/ConstantC/blob/main/collab/2026-08-05-producer-conduct-intelligence/README.md
+https://github.com/AndieWill510/ConstantC/blob/main/sessions/2026-08-05-session-023-producer-conduct-oversight.md
 
-Purpose: review the argument in a searchable, accessible form without depending on PDF ingestion.
+Purpose: preserves the first framing, the reframing, and the repairs introduced by Revision 2.
 
-### 3. Inline public-safe figures
+### 3. Fully synthetic external figures
 
-Organization-centered schematic:
+Organization-centered network:
 
-https://github.com/AndieWill510/ConstantC/blob/add-producer-conduct-intelligence/collab/2026-08-05-producer-conduct-intelligence/producer_conduct_network_schematic_organization.svg
+https://github.com/AndieWill510/ConstantC/blob/add-producer-conduct-intelligence/collab/2026-08-05-producer-conduct-oversight/producer_conduct_network_schematic_organization.svg
 
-Producer-centered schematic:
+Producer-centered network:
 
-https://github.com/AndieWill510/ConstantC/blob/add-producer-conduct-intelligence/collab/2026-08-05-producer-conduct-intelligence/producer_conduct_network_schematic_producer.svg
+https://github.com/AndieWill510/ConstantC/blob/add-producer-conduct-intelligence/collab/2026-08-05-producer-conduct-oversight/producer_conduct_network_schematic_producer.svg
 
-Purpose: review the visual claims and guardrails without depending on source identifiers or binary screenshot access.
-
-The designed PDF and screenshot-level anonymized PNGs are staged as binary derivatives. Their target paths and checksums are recorded here:
-
-https://github.com/AndieWill510/ConstantC/blob/add-producer-conduct-intelligence/collab/2026-08-05-producer-conduct-intelligence/ASSET-MANIFEST.md
+Purpose: review the visual claims without carrying real identifiers, exact dates, counts, or topology.
 
 ### 4. Relevant ConstantC ground
 
@@ -84,79 +82,61 @@ https://github.com/AndieWill510/ConstantC/blob/main/culture/access-as-witness.md
 
 ---
 
-## The central claim under review
+## Central claims under review
 
-The capability reconstructs fragmented conduct histories, identifies statistically unusual patterns, reveals organizational and relational concentrations, and presents investigators with an explainable path from alert to underlying evidence.
+> **The product is not the score. The product is a governed oversight capability that can show its work.**
 
-Its governing question is:
+> **Where is human attention most needed, what evidence supports looking there, and what would allow the person affected to challenge the record?**
 
-> **Where is human attention most needed, and what evidence supports looking there?**
+> **Contestability is incomplete when only the institution can challenge the system.**
 
-Its governing boundary is:
-
-> The system supports prioritization and inquiry. It does not determine culpability, misconduct, or disciplinary outcomes.
+> **Production readiness is earned when the system can be explained, challenged, corrected, audited, and retired - not merely when it can run.**
 
 ---
 
-## The visual claims under review
+## Repairs already accepted in Revision 2
 
-### Organization-centered view
-
-The figure supports tracing severe outcomes through producers and incidents into a possible organizational context.
-
-It may support a denominator-adjusted organizational review.
-
-It does not support a conclusion that the organization caused, directed, or tolerated the conduct.
-
-### Producer-centered view
-
-The figure makes recurrence, action diversity, timing, and incident-path complexity visible around one producer.
-
-It does not establish that a highly connected producer is culpable or high risk.
-
-The shorthand is:
-
-> **No guilt by graph.**
-
----
-
-## Methodological boundaries already accepted
-
-- The three scoring dimensions are analytically distinct, not proven statistically independent.
-- The bounded logistic curve is a smoothed descriptive relationship, not a validated individual suspension probability.
-- A continuity correction does not solve sparse outcomes, censoring, clustering, confounding, or outcome leakage.
-- Raw organizational counts are not risk; denominators, uncertainty, observation periods, small-group controls, and affiliation verification are required.
-- A regex-derived date must retain source-text provenance and validation status.
-- Meaningful human review requires authority to challenge, correct, override, and document the outcome.
+- **Name:** Producer Conduct Oversight replaces Producer Conduct Intelligence.
+- **Unit of analysis:** producer-in-context rather than isolated incident.
+- **Workflow:** challenge and correction are explicit stages before documented decision.
+- **Contestability:** internal review is not sufficient; producer-facing correction and context routes are included where law and policy require them.
+- **Scoring language:** neutral review bands replace A-F report-card grades.
+- **Visual privacy:** external visuals are fully synthetic because pseudonyms plus exact dates and topology can enable re-identification.
+- **Fairness:** subgroup burden, proxy sensitivity, false positives, correction, override, and time-to-resolution are release and monitoring concerns.
+- **Business case:** risk and fairness metrics sit beside efficiency, effectiveness, and consistency.
+- **Production governance:** jurisdiction mapping, external-visual release controls, correction propagation, and retirement criteria are included.
 
 ---
 
 ## Review request
 
-Please review this as an applied governance and epistemic-safety case, not only as an insurance analytics paper.
+Please review this as an applied governance, standing, fairness, and epistemic-safety case - not only as an insurance analytics paper.
 
 Please answer:
 
-1. Is **governed oversight capability** the correct center, or does it conceal a more precise architectural object?
-2. Does **can show its work** overpromise explainability at the proof-of-concept stage?
-3. Does the distinction between prioritization and adjudication survive the described workflow?
-4. Are the graph guardrails strong enough to resist guilt by association and organizational attribution?
-5. Is the scorecard genuinely triangulated, or is it a correlated bundle carrying a persuasive name?
-6. Is the logistic model described with enough restraint?
-7. What producer-standing, due-process, labor, consumer-protection, or institutional-power concern is missing?
-8. Does this qualify as an Unlost Systems worked case? If not, what is missing?
-9. What belongs in CDP, if anything?
-10. What should remain a project artifact rather than become culture or canon?
+1. Is **Producer Conduct Oversight** the right name for the architectural object?
+2. Does **can show its work** accurately describe the source-to-signal-to-challenge chain, or does it overpromise explainability?
+3. Is producer-facing contestability sufficiently concrete, or is it still a moral aspiration without an executable interface?
+4. Does the language avoid inventing uniform legal rights where jurisdiction and process vary?
+5. Does the workflow truly separate prioritization from adjudication?
+6. Are neutral review bands enough to repair the false precision and stigma of grading?
+7. Is fairness integrated early enough to shape features, thresholds, release, monitoring, and retirement?
+8. What proxy, subgroup, or institutional-power risk remains missing?
+9. Do the synthetic figures preserve legitimate explanatory value without laundering real topology into an external artifact?
+10. Does the denominator-adjusted example clarify the method or create an accidental benchmark?
+11. What must be added before this qualifies as an Unlost Systems worked case?
+12. What belongs in CDP, and what should remain an applied project artifact?
 
 Please provide:
 
 - strongest surviving sentence;
 - weakest load-bearing sentence;
 - any remaining overclaim;
-- any missing counterexample or affected party;
-- your updated architectural verdict;
-- the smallest next empirical test;
-- the smallest next ConstantC action.
+- missing affected party or counterexample;
+- updated architectural verdict;
+- smallest next empirical test;
+- smallest next governance test;
+- smallest next ConstantC action.
 
 ---
 
@@ -164,17 +144,16 @@ Please provide:
 
 The repository is public.
 
-The graphs are screenshot-level anonymizations. Producer identifiers, incident identifiers, and the company domain were removed or pseudonymized. Final action labels and dates were retained intentionally as the endpoint of interpretation.
+All external-use visuals in Revision 2 are fully synthetic. No real producer, incident, organization, action date, count, or topology is represented.
 
-The unredacted source graphics, underlying incident records, narrative notes, organization identity, and any PII/PHI are not committed.
-
-Please do not infer or attempt to reconstruct the hidden organization or producers.
+The original unredacted screenshots, underlying records, narrative notes, organization identity, and any PII/PHI are not committed.
 
 Please distinguish:
 
 - demonstrated capability;
 - supported interpretation;
 - governance hypothesis;
+- legal question requiring jurisdiction-specific review;
 - empirical claim awaiting validation;
 - speculative application;
 - unresolved question.
