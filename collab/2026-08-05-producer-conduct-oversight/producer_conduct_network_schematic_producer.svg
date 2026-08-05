@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+
+<style>
+  .bg{fill:#fbfbfc}.edge{fill:none;stroke:#8b8f94;stroke-width:2.5;opacity:.72}
+  .domain{fill:#4a4a4a;stroke:#222;stroke-width:5}.producer{fill:#2d7fb8;stroke:#07598e;stroke-width:4}
+  .incident{fill:#2ca52f;stroke:#087a13;stroke-width:4}.action{fill:#9a62c4;stroke:#6d3895;stroke-width:4}
+  .termination{fill:#df2f2f;stroke:#9f0808;stroke-width:4}.reinstatement{fill:#8a5fb2;stroke:#603b84;stroke-width:4}
+  .label{font-family:Arial,Helvetica,sans-serif;font-size:18px;fill:#222}.node-label{font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:700;fill:white;text-anchor:middle;dominant-baseline:middle}
+  .title{font-family:Arial,Helvetica,sans-serif;font-size:30px;font-weight:700;fill:#202124}.subtitle{font-family:Arial,Helvetica,sans-serif;font-size:18px;fill:#4f5358}
+  .caption{font-family:Arial,Helvetica,sans-serif;font-size:16px;fill:#3b3f44}.small{font-family:Arial,Helvetica,sans-serif;font-size:14px;fill:#555}
+  .callout{fill:#fff;stroke:#c9cdd2;stroke-width:2}.callout-title{font-family:Arial,Helvetica,sans-serif;font-size:17px;font-weight:700;fill:#222}
+</style>
+<rect width="100%" height="100%" class="bg"/>
+<text x="60" y="62" class="title">Producer history as a pattern, not a pile of records</text>
+<text x="60" y="94" class="subtitle">Producer-centered schematic preserving incident and final-action structure</text>
+<rect x="1220" y="45" width="320" height="165" rx="14" class="callout"/>
+<text x="1250" y="80" class="callout-title">Node types</text>
+<circle cx="1260.0" cy="112.0" r="10" class="producer"/>
+<text x="1280" y="118" class="small">Central producer</text>
+<circle cx="1260.0" cy="143.0" r="10" class="incident"/>
+<text x="1280" y="149" class="small">Incident</text>
+<circle cx="1260.0" cy="174.0" r="10" class="action"/>
+<text x="1280" y="180" class="small">Escalation response</text>
+<circle cx="1425.0" cy="112.0" r="10" class="termination"/>
+<text x="1445" y="118" class="small">Termination</text>
+<circle cx="1425.0" cy="143.0" r="10" class="reinstatement"/>
+<text x="1445" y="149" class="small">Reinstatement</text>
+<path d="M800.0,625.0 Q630.5,579.8 490.9,542.2" class="edge"/>
+<path d="M490.9,542.2 L431.0,526.1" class="edge"/>
+<circle cx="431.0" cy="526.1" r="22" class="action"/><text x="431.0" y="526.1" class="node-label">ESC</text>
+<path d="M800.0,625.0 Q644.4,549.1 514.9,479.7" class="edge"/>
+<path d="M514.9,479.7 L459.6,451.6" class="edge"/>
+<circle cx="459.6" cy="451.6" r="22" class="action"/><text x="459.6" y="451.6" class="node-label">ESC</text>
+<path d="M800.0,625.0 Q664.7,521.6 551.3,423.6" class="edge"/>
+<path d="M551.3,423.6 L503.1,384.6" class="edge"/>
+<circle cx="503.1" cy="384.6" r="22" class="action"/><text x="503.1" y="384.6" class="node-label">ESC</text>
+<path d="M551.3,423.6 Q523.6,387.0 479.8,354.4" class="edge"/>
+<circle cx="479.8" cy="354.4" r="22" class="action"/><text x="479.8" y="354.4" class="node-label">ESC</text>
+<path d="M800.0,625.0 Q690.3,498.4 598.6,376.3" class="edge"/>
+<path d="M598.6,376.3 L559.6,328.1" class="edge"/>
+<circle cx="559.6" cy="328.1" r="22" class="action"/><text x="559.6" y="328.1" class="node-label">ESC</text>
+<path d="M800.0,625.0 Q720.4,480.7 654.7,339.9" class="edge"/>
+<path d="M654.7,339.9 L626.6,284.6" class="edge"/>
+<circle cx="626.6" cy="284.6" r="22" class="termination"/><text x="626.6" y="284.6" class="node-label">TERM</text>
+<path d="M800.0,625.0 Q753.6,469.2 717.2,315.9" class="edge"/>
+<path d="M717.2,315.9 L701.1,256.0" class="edge"/>
+<circle cx="701.1" cy="256.0" r="22" class="action"/><text x="701.1" y="256.0" class="node-label">ESC</text>
+<path d="M717.2,315.9 Q703.9,260.8 674.7,209.7" class="edge"/>
+<circle cx="674.7" cy="209.7" r="22" class="action"/><text x="674.7" y="209.7" class="node-label">ESC</text>
+<path d="M800.0,625.0 Q788.6,464.5 783.3,305.4" class="edge"/>
+<path d="M783.3,305.4 L780.0,243.5" class="edge"/>
+<circle cx="780.0" cy="243.5" r="22" class="action"/><text x="780.0" y="243.5" class="node-label">ESC</text>
+<path d="M800.0,625.0 Q824.0,466.7 850.1,308.9" class="edge"/>
+<path d="M850.1,308.9 L859.8,247.7" class="edge"/>
+<circle cx="859.8" cy="247.7" r="22" class="action"/><text x="859.8" y="247.7" class="node-label">ESC</text>
+<path d="M800.0,625.0 Q858.3,475.4 914.7,326.3" class="edge"/>
+<path d="M914.7,326.3 L936.9,268.4" class="edge"/>
+<circle cx="936.9" cy="268.4" r="22" class="action"/><text x="936.9" y="268.4" class="node-label">ESC</text>
+<path d="M914.7,326.3 Q949.4,272.9 968.1,223.6" class="edge"/>
+<circle cx="968.1" cy="223.6" r="22" class="action"/><text x="968.1" y="223.6" class="node-label">ESC</text>
+<path d="M800.0,625.0 Q890.1,490.1 974.3,356.6" class="edge"/>
+<path d="M974.3,356.6 L1008.1,304.6" class="edge"/>
+<circle cx="1008.1" cy="304.6" r="22" class="action"/><text x="1008.1" y="304.6" class="node-label">ESC</text>
+<path d="M800.0,625.0 Q918.1,510.6 1026.3,398.7" class="edge"/>
+<path d="M1026.3,398.7 L1070.1,354.9" class="edge"/>
+<circle cx="1070.1" cy="354.9" r="22" class="action"/><text x="1070.1" y="354.9" class="node-label">ESC</text>
+<path d="M800.0,625.0 Q941.2,536.1 1068.4,450.7" class="edge"/>
+<path d="M1068.4,450.7 L1120.4,416.9" class="edge"/>
+<circle cx="1120.4" cy="416.9" r="22" class="action"/><text x="1120.4" y="416.9" class="node-label">ESC</text>
+<path d="M1068.4,450.7 Q1115.5,418.8 1146.6,390.8" class="edge"/>
+<circle cx="1146.6" cy="390.8" r="22" class="action"/><text x="1146.6" y="390.8" class="node-label">ESC</text>
+<path d="M800.0,625.0 Q958.4,565.4 1098.7,510.3" class="edge"/>
+<path d="M1098.7,510.3 L1156.6,488.1" class="edge"/>
+<circle cx="1156.6" cy="488.1" r="22" class="reinstatement"/><text x="1156.6" y="488.1" class="node-label">REIN</text>
+<path d="M800.0,625.0 Q969.0,597.2 1116.1,574.9" class="edge"/>
+<path d="M1116.1,574.9 L1177.3,565.2" class="edge"/>
+<circle cx="1177.3" cy="565.2" r="22" class="action"/><text x="1177.3" y="565.2" class="node-label">ESC</text>
+<path d="M800.0,625.0 Q972.8,630.1 1119.6,641.7" class="edge"/>
+<path d="M1119.6,641.7 L1181.5,645.0" class="edge"/>
+<circle cx="1181.5" cy="645.0" r="22" class="action"/><text x="1181.5" y="645.0" class="node-label">ESC</text>
+<path d="M1119.6,641.7 Q1189.5,642.6 1243.4,647.5" class="edge"/>
+<circle cx="1243.4" cy="647.5" r="22" class="action"/><text x="1243.4" y="647.5" class="node-label">ESC</text>
+<path d="M800.0,625.0 Q969.5,662.7 1109.1,707.8" class="edge"/>
+<path d="M1109.1,707.8 L1169.0,723.9" class="edge"/>
+<circle cx="1169.0" cy="723.9" r="22" class="action"/><text x="1169.0" y="723.9" class="node-label">ESC</text>
+<circle cx="490.9" cy="542.2" r="28" class="incident"/><text x="490.9" y="542.2" class="node-label">I-01</text>
+<circle cx="514.9" cy="479.7" r="28" class="incident"/><text x="514.9" y="479.7" class="node-label">I-02</text>
+<circle cx="551.3" cy="423.6" r="28" class="incident"/><text x="551.3" y="423.6" class="node-label">I-03</text>
+<circle cx="598.6" cy="376.3" r="28" class="incident"/><text x="598.6" y="376.3" class="node-label">I-04</text>
+<circle cx="654.7" cy="339.9" r="28" class="incident"/><text x="654.7" y="339.9" class="node-label">I-05</text>
+<circle cx="717.2" cy="315.9" r="28" class="incident"/><text x="717.2" y="315.9" class="node-label">I-06</text>
+<circle cx="783.3" cy="305.4" r="28" class="incident"/><text x="783.3" y="305.4" class="node-label">I-07</text>
+<circle cx="850.1" cy="308.9" r="28" class="incident"/><text x="850.1" y="308.9" class="node-label">I-08</text>
+<circle cx="914.7" cy="326.3" r="28" class="incident"/><text x="914.7" y="326.3" class="node-label">I-09</text>
+<circle cx="974.3" cy="356.6" r="28" class="incident"/><text x="974.3" y="356.6" class="node-label">I-10</text>
+<circle cx="1026.3" cy="398.7" r="28" class="incident"/><text x="1026.3" y="398.7" class="node-label">I-11</text>
+<circle cx="1068.4" cy="450.7" r="28" class="incident"/><text x="1068.4" y="450.7" class="node-label">I-12</text>
+<circle cx="1098.7" cy="510.3" r="28" class="incident"/><text x="1098.7" y="510.3" class="node-label">I-13</text>
+<circle cx="1116.1" cy="574.9" r="28" class="incident"/><text x="1116.1" y="574.9" class="node-label">I-14</text>
+<circle cx="1119.6" cy="641.7" r="28" class="incident"/><text x="1119.6" y="641.7" class="node-label">I-15</text>
+<circle cx="1109.1" cy="707.8" r="28" class="incident"/><text x="1109.1" y="707.8" class="node-label">I-16</text>
+<circle cx="800.0" cy="625.0" r="86" class="producer"/><text x="800.0" y="625.0" class="node-label">P-01</text>
+<rect x="55" y="700" width="540" height="132" rx="15" class="callout"/>
+<text x="82" y="735" class="callout-title">Interpretive boundary</text>
+<text x="82" y="765" class="caption">Connectivity reveals recurrence, action diversity, and pathway complexity.</text>
+<text x="82" y="795" class="caption">It may also reflect time observed, duplication, or thorough case handling.</text>
+<text x="82" y="825" class="caption">Degree is not guilt. The graph surfaces the question; evidence answers it.</text>
+<text x="1060" y="862" class="small">No guilt by graph. Every edge should remain traceable to source evidence.</text>
+</svg>

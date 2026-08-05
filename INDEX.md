@@ -1,7 +1,7 @@
 # ConstantC — Index
 
 Status: active index  
-Date: 2026-08-03  
+Date: 2026-08-05  
 Steward: Andie  
 Privacy: public-safe
 
@@ -53,6 +53,14 @@ Proposed notes:
 
 20. [`decisions/DECISION-0001-public-vs-private.md`](./decisions/DECISION-0001-public-vs-private.md)
 
+## Collaborative Work
+
+- [`collab/2026-08-05-producer-conduct-oversight/Producer_Conduct_Oversight_Whitepaper.pdf`](./collab/2026-08-05-producer-conduct-oversight/Producer_Conduct_Oversight_Whitepaper.pdf) — authoritative 14-page Revision 2 external-review draft.
+- [`collab/2026-08-05-producer-conduct-oversight/README.md`](./collab/2026-08-05-producer-conduct-oversight/README.md) — searchable companion for Producer Conduct Oversight; includes two-sided contestability, fairness and proxy analysis, production controls, full references, and synthetic figures.
+- [`collab/2026-08-05-producer-conduct-oversight/producer_conduct_network_schematic_organization.svg`](./collab/2026-08-05-producer-conduct-oversight/producer_conduct_network_schematic_organization.svg) — fully synthetic organization-centered severe-outcome traceability schematic.
+- [`collab/2026-08-05-producer-conduct-oversight/producer_conduct_network_schematic_producer.svg`](./collab/2026-08-05-producer-conduct-oversight/producer_conduct_network_schematic_producer.svg) — fully synthetic producer-centered longitudinal escalation schematic.
+- [`collab/2026-08-05-producer-conduct-oversight/ASSET-MANIFEST.md`](./collab/2026-08-05-producer-conduct-oversight/ASSET-MANIFEST.md) — artifact verification, checksum, privacy boundary, and superseded-derivative record.
+
 ## Sessions
 
 21. [`sessions/2026-06-03-names-encryption-tether.md`](./sessions/2026-06-03-names-encryption-tether.md) — Session 001: naming, encryption, tether, anti-erasure.
@@ -77,12 +85,13 @@ Proposed notes:
 40. [`sessions/2026-07-29-session-020-open-constitutional-questions.md`](./sessions/2026-07-29-session-020-open-constitutional-questions.md) — unresolved constitutional pressure points.
 41. [`sessions/2026-07-29-session-021-lessons-from-answerability-inquiry.md`](./sessions/2026-07-29-session-021-lessons-from-answerability-inquiry.md) — methodological lessons and preservation rationale.
 42. [`sessions/2026-08-03-session-022-love-duty-freedom-repair.md`](./sessions/2026-08-03-session-022-love-duty-freedom-repair.md) — love's duties, Freedom as verification, repair obligation, and departure without capture.
+43. [`sessions/2026-08-05-session-023-producer-conduct-oversight.md`](./sessions/2026-08-05-session-023-producer-conduct-oversight.md) — applied oversight case: the move from risk scorecard to two-sided, fairness-aware, evidence-linked, contestable review capability.
 
 ## Handoff Lanes
 
-43. [`inbox/to-c.md`](./inbox/to-c.md) — current packet for C.
-44. [`outbox/from-c.md`](./outbox/from-c.md) — C responses recorded through Andie and/or G.
-45. [`inbox/to-g.md`](./inbox/to-g.md) — packet for G.
+44. [`inbox/to-c.md`](./inbox/to-c.md) — current Producer Conduct Oversight Revision 2 review packet for C.
+45. [`outbox/from-c.md`](./outbox/from-c.md) — C responses recorded through Andie and/or G.
+46. [`inbox/to-g.md`](./inbox/to-g.md) — packet for G.
 
 ## Topic Map
 
@@ -117,6 +126,12 @@ Read `decisions/DECISION-0001-public-vs-private.md`, `ORIENTATION.md`, and `CULT
 ### To understand love, duty, freedom, and repair
 
 Read `culture/loves-duties-are-ungendered.md`, `culture/repair-as-constitutional-obligation.md`, `culture/belonging-in-one-another.md`, `culture/anti-premature-certainty.md`, and Session 022.
+
+### To understand Producer Conduct Oversight
+
+Read Session 023, the Revision 2 PDF, the searchable working-paper companion, `canon/unlost-systems-principles.md`, `culture/anti-premature-certainty.md`, and `culture/cognitive-load-as-governance.md`.
+
+The working paper is an applied artifact, not canon. Its central claim is that the review band, graph, and model are instruments inside a governed oversight capability that can show its work. Revision 2 adds two-sided contestability, fairness and proxy-risk controls, synthetic external visuals, and retirement as a production-readiness condition.
 
 ## Context Budget Strategy
 
